@@ -8,9 +8,9 @@ This repository introduces our latest work **FedCycleBGD**, a resource-efficient
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Code Content](#codecontent)
+- [Code Content](#code-content)
 - [Setup](#setup)
-- [Example](#example)
+- [Quick Start](#quick-start)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
