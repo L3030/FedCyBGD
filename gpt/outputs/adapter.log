@@ -1,0 +1,1 @@
+fine-tuning type: adapter, global epoch: 0, exact_match: 0.14191106906338694, f1: 5.382142817536058fine-tuning type: adapter, global epoch: 1, exact_match: 0.21759697256385999, f1: 5.438016700306464fine-tuning type: adapter, global epoch: 2, exact_match: 0.21759697256385999, f1: 5.478629703195015

@@ -1,0 +1,2188 @@
+oaast_sft
+Global training Round: 0, block 0
+Client for current block: [0, 32]
+Client loss for current block: [1.298443078994751, 1.2987216711044312]
+Block 0‘s Average loss: 1.29858, Aggregation loss: 1.29848
+
+oaast_sft
+Global training Round: 0, block 1
+Client for current block: [1, 33]
+Client loss for current block: [1.2887946367263794, 1.289760947227478]
+Block 1‘s Average loss: 1.28928, Aggregation loss: 1.28921
+
+oaast_sft
+Global training Round: 0, block 2
+Client for current block: [2, 34]
+Client loss for current block: [1.2771310806274414, 1.280457854270935]
+Block 2‘s Average loss: 1.27879, Aggregation loss: 1.27876
+
+oaast_sft
+Global training Round: 0, block 3
+Client for current block: [3, 35]
+Client loss for current block: [1.2702317237854004, 1.2701382637023926]
+Block 3‘s Average loss: 1.27018, Aggregation loss: 1.27022
+
+oaast_sft
+Global training Round: 0, block 4
+Client for current block: [4, 36]
+Client loss for current block: [1.261970043182373, 1.2622677087783813]
+Block 4‘s Average loss: 1.26212, Aggregation loss: 1.26225
+
+oaast_sft
+Global training Round: 0, block 5
+Client for current block: [5, 37]
+Client loss for current block: [1.255105972290039, 1.2547693252563477]
+Block 5‘s Average loss: 1.25494, Aggregation loss: 1.25482
+
+oaast_sft
+Global training Round: 0, block 6
+Client for current block: [6, 38]
+Client loss for current block: [1.2491964101791382, 1.2483559846878052]
+Block 6‘s Average loss: 1.24878, Aggregation loss: 1.24883
+
+oaast_sft
+Global training Round: 0, block 7
+Client for current block: [7, 39]
+Client loss for current block: [1.2448898553848267, 1.2438664436340332]
+Block 7‘s Average loss: 1.24438, Aggregation loss: 1.24439
+
+oaast_sft
+Global training Round: 0, block 8
+Client for current block: [8, 40]
+Client loss for current block: [1.2408255338668823, 1.2397465705871582]
+Block 8‘s Average loss: 1.24029, Aggregation loss: 1.24037
+
+oaast_sft
+Global training Round: 0, block 9
+Client for current block: [9, 41]
+Client loss for current block: [1.2375942468643188, 1.2364296913146973]
+Block 9‘s Average loss: 1.23701, Aggregation loss: 1.23704
+
+oaast_sft
+Global training Round: 0, block 10
+Client for current block: [10, 42]
+Client loss for current block: [1.2343637943267822, 1.2340850830078125]
+Block 10‘s Average loss: 1.23422, Aggregation loss: 1.23418
+
+oaast_sft
+Global training Round: 0, block 11
+Client for current block: [11, 43]
+Client loss for current block: [1.2326757907867432, 1.2324720621109009]
+Block 11‘s Average loss: 1.23257, Aggregation loss: 1.23255
+
+oaast_sft
+Global training Round: 0, block 12
+Client for current block: [12, 44]
+Client loss for current block: [1.231200933456421, 1.230556845664978]
+Block 12‘s Average loss: 1.23088, Aggregation loss: 1.23073
+
+oaast_sft
+Global training Round: 0, block 13
+Client for current block: [13, 45]
+Client loss for current block: [1.229775071144104, 1.229015827178955]
+Block 13‘s Average loss: 1.2294, Aggregation loss: 1.22942
+
+oaast_sft
+Global training Round: 0, block 14
+Client for current block: [14, 46]
+Client loss for current block: [1.228562831878662, 1.2286112308502197]
+Block 14‘s Average loss: 1.22859, Aggregation loss: 1.22864
+
+oaast_sft
+Global training Round: 0, block 15
+Client for current block: [15, 47]
+Client loss for current block: [1.2279441356658936, 1.2278647422790527]
+Block 15‘s Average loss: 1.2279, Aggregation loss: 1.22792
+
+oaast_sft
+Global training Round: 0, block 16
+Client for current block: [16, 48]
+Client loss for current block: [1.2277436256408691, 1.2275903224945068]
+Block 16‘s Average loss: 1.22767, Aggregation loss: 1.22762
+
+oaast_sft
+Global training Round: 0, block 17
+Client for current block: [17, 49]
+Client loss for current block: [1.2272863388061523, 1.2272735834121704]
+Block 17‘s Average loss: 1.22728, Aggregation loss: 1.22723
+
+oaast_sft
+Global training Round: 0, block 18
+Client for current block: [18, 50]
+Client loss for current block: [1.2267414331436157, 1.2267335653305054]
+Block 18‘s Average loss: 1.22674, Aggregation loss: 1.22671
+
+oaast_sft
+Global training Round: 0, block 19
+Client for current block: [19, 51]
+Client loss for current block: [1.2265657186508179, 1.2265881299972534]
+Block 19‘s Average loss: 1.22658, Aggregation loss: 1.22661
+
+oaast_sft
+Global training Round: 0, block 20
+Client for current block: [20, 52]
+Client loss for current block: [1.226491928100586, 1.2264169454574585]
+Block 20‘s Average loss: 1.22645, Aggregation loss: 1.2265
+
+oaast_sft
+Global training Round: 0, block 21
+Client for current block: [21, 53]
+Client loss for current block: [1.2261382341384888, 1.226226806640625]
+Block 21‘s Average loss: 1.22618, Aggregation loss: 1.22612
+
+oaast_sft
+Global training Round: 0, block 22
+Client for current block: [22, 54]
+Client loss for current block: [1.2260959148406982, 1.2259656190872192]
+Block 22‘s Average loss: 1.22603, Aggregation loss: 1.22604
+
+oaast_sft
+Global training Round: 0, block 23
+Client for current block: [23, 55]
+Client loss for current block: [1.2259609699249268, 1.2259269952774048]
+Block 23‘s Average loss: 1.22594, Aggregation loss: 1.22596
+
+oaast_sft
+Global training Round: 0, block 24
+Client for current block: [24, 56]
+Client loss for current block: [1.225878119468689, 1.2258045673370361]
+Block 24‘s Average loss: 1.22584, Aggregation loss: 1.22577
+
+oaast_sft
+Global training Round: 0, block 25
+Client for current block: [25, 57]
+Client loss for current block: [1.2256089448928833, 1.2255808115005493]
+Block 25‘s Average loss: 1.22559, Aggregation loss: 1.22565
+
+oaast_sft
+Global training Round: 0, block 26
+Client for current block: [26, 58]
+Client loss for current block: [1.2254865169525146, 1.2255696058273315]
+Block 26‘s Average loss: 1.22553, Aggregation loss: 1.22554
+
+oaast_sft
+Global training Round: 0, block 27
+Client for current block: [27, 59]
+Client loss for current block: [1.225334644317627, 1.2251839637756348]
+Block 27‘s Average loss: 1.22526, Aggregation loss: 1.22527
+
+oaast_sft
+Global training Round: 0, block 28
+Client for current block: [28, 60]
+Client loss for current block: [1.2251757383346558, 1.2251489162445068]
+Block 28‘s Average loss: 1.22516, Aggregation loss: 1.22512
+
+oaast_sft
+Global training Round: 0, block 29
+Client for current block: [29, 61]
+Client loss for current block: [1.224888563156128, 1.224895715713501]
+Block 29‘s Average loss: 1.22489, Aggregation loss: 1.22489
+
+oaast_sft
+Global training Round: 0, block 30
+Client for current block: [30, 62]
+Client loss for current block: [1.2243144512176514, 1.2244032621383667]
+Block 30‘s Average loss: 1.22436, Aggregation loss: 1.22444
+
+64clients, round0, agg, round_time: 13819.689671039581
+
+oaast_sft
+Global training Round: 0, block 31
+Client for current block: [31, 63]
+Client loss for current block: [1.2235251665115356, 1.2242530584335327]
+Block 31‘s Average loss: 1.22389, Aggregation loss: 1.22379
+
+oaast_sft
+Global training Round: 1, block 0
+Client for current block: [0, 32]
+Client loss for current block: [1.2225122451782227, 1.2214851379394531]
+Block 0‘s Average loss: 1.222, Aggregation loss: 1.22186
+
+oaast_sft
+Global training Round: 1, block 1
+Client for current block: [1, 33]
+Client loss for current block: [1.2205885648727417, 1.2193803787231445]
+Block 1‘s Average loss: 1.21998, Aggregation loss: 1.22003
+
+oaast_sft
+Global training Round: 1, block 2
+Client for current block: [2, 34]
+Client loss for current block: [1.219336986541748, 1.2177428007125854]
+Block 2‘s Average loss: 1.21854, Aggregation loss: 1.21865
+
+oaast_sft
+Global training Round: 1, block 3
+Client for current block: [3, 35]
+Client loss for current block: [1.2180249691009521, 1.2159247398376465]
+Block 3‘s Average loss: 1.21697, Aggregation loss: 1.21731
+
+oaast_sft
+Global training Round: 1, block 4
+Client for current block: [4, 36]
+Client loss for current block: [1.216076135635376, 1.2145044803619385]
+Block 4‘s Average loss: 1.21529, Aggregation loss: 1.21553
+
+oaast_sft
+Global training Round: 1, block 5
+Client for current block: [5, 37]
+Client loss for current block: [1.2146685123443604, 1.2128198146820068]
+Block 5‘s Average loss: 1.21374, Aggregation loss: 1.21389
+
+oaast_sft
+Global training Round: 1, block 6
+Client for current block: [6, 38]
+Client loss for current block: [1.2132056951522827, 1.2114710807800293]
+Block 6‘s Average loss: 1.21234, Aggregation loss: 1.21263
+
+oaast_sft
+Global training Round: 1, block 7
+Client for current block: [7, 39]
+Client loss for current block: [1.212085247039795, 1.210748553276062]
+Block 7‘s Average loss: 1.21142, Aggregation loss: 1.21157
+
+oaast_sft
+Global training Round: 1, block 8
+Client for current block: [8, 40]
+Client loss for current block: [1.211101770401001, 1.2097910642623901]
+Block 8‘s Average loss: 1.21045, Aggregation loss: 1.21068
+
+oaast_sft
+Global training Round: 1, block 9
+Client for current block: [9, 41]
+Client loss for current block: [1.2103960514068604, 1.2094675302505493]
+Block 9‘s Average loss: 1.20993, Aggregation loss: 1.21008
+
+oaast_sft
+Global training Round: 1, block 10
+Client for current block: [10, 42]
+Client loss for current block: [1.2095015048980713, 1.2090567350387573]
+Block 10‘s Average loss: 1.20928, Aggregation loss: 1.20935
+
+oaast_sft
+Global training Round: 1, block 11
+Client for current block: [11, 43]
+Client loss for current block: [1.2092328071594238, 1.2089135646820068]
+Block 11‘s Average loss: 1.20907, Aggregation loss: 1.20908
+
+oaast_sft
+Global training Round: 1, block 12
+Client for current block: [12, 44]
+Client loss for current block: [1.2089608907699585, 1.2085659503936768]
+Block 12‘s Average loss: 1.20876, Aggregation loss: 1.20882
+
+oaast_sft
+Global training Round: 1, block 13
+Client for current block: [13, 45]
+Client loss for current block: [1.208770751953125, 1.2083115577697754]
+Block 13‘s Average loss: 1.20854, Aggregation loss: 1.2086
+
+oaast_sft
+Global training Round: 1, block 14
+Client for current block: [14, 46]
+Client loss for current block: [1.2084240913391113, 1.2081952095031738]
+Block 14‘s Average loss: 1.20831, Aggregation loss: 1.20847
+
+oaast_sft
+Global training Round: 1, block 15
+Client for current block: [15, 47]
+Client loss for current block: [1.2083985805511475, 1.2082198858261108]
+Block 15‘s Average loss: 1.20831, Aggregation loss: 1.20831
+
+oaast_sft
+Global training Round: 1, block 16
+Client for current block: [16, 48]
+Client loss for current block: [1.2081657648086548, 1.2081893682479858]
+Block 16‘s Average loss: 1.20818, Aggregation loss: 1.20813
+
+oaast_sft
+Global training Round: 1, block 17
+Client for current block: [17, 49]
+Client loss for current block: [1.2081103324890137, 1.2079395055770874]
+Block 17‘s Average loss: 1.20802, Aggregation loss: 1.20806
+
+oaast_sft
+Global training Round: 1, block 18
+Client for current block: [18, 50]
+Client loss for current block: [1.2080976963043213, 1.207813024520874]
+Block 18‘s Average loss: 1.20796, Aggregation loss: 1.20799
+
+oaast_sft
+Global training Round: 1, block 19
+Client for current block: [19, 51]
+Client loss for current block: [1.207972764968872, 1.207855224609375]
+Block 19‘s Average loss: 1.20791, Aggregation loss: 1.20805
+
+oaast_sft
+Global training Round: 1, block 20
+Client for current block: [20, 52]
+Client loss for current block: [1.2079474925994873, 1.2077490091323853]
+Block 20‘s Average loss: 1.20785, Aggregation loss: 1.20782
+
+oaast_sft
+Global training Round: 1, block 21
+Client for current block: [21, 53]
+Client loss for current block: [1.20796537399292, 1.2076562643051147]
+Block 21‘s Average loss: 1.20781, Aggregation loss: 1.20792
+
+oaast_sft
+Global training Round: 1, block 22
+Client for current block: [22, 54]
+Client loss for current block: [1.2078291177749634, 1.2077914476394653]
+Block 22‘s Average loss: 1.20781, Aggregation loss: 1.20789
+
+oaast_sft
+Global training Round: 1, block 23
+Client for current block: [23, 55]
+Client loss for current block: [1.2077584266662598, 1.2077866792678833]
+Block 23‘s Average loss: 1.20777, Aggregation loss: 1.20775
+
+oaast_sft
+Global training Round: 1, block 24
+Client for current block: [24, 56]
+Client loss for current block: [1.2078113555908203, 1.2077245712280273]
+Block 24‘s Average loss: 1.20777, Aggregation loss: 1.20777
+
+oaast_sft
+Global training Round: 1, block 25
+Client for current block: [25, 57]
+Client loss for current block: [1.207714557647705, 1.2076300382614136]
+Block 25‘s Average loss: 1.20767, Aggregation loss: 1.20765
+
+oaast_sft
+Global training Round: 1, block 26
+Client for current block: [26, 58]
+Client loss for current block: [1.2076784372329712, 1.2075984477996826]
+Block 26‘s Average loss: 1.20764, Aggregation loss: 1.20765
+
+oaast_sft
+Global training Round: 1, block 27
+Client for current block: [27, 59]
+Client loss for current block: [1.2075899839401245, 1.207524061203003]
+Block 27‘s Average loss: 1.20756, Aggregation loss: 1.20756
+
+oaast_sft
+Global training Round: 1, block 28
+Client for current block: [28, 60]
+Client loss for current block: [1.2074660062789917, 1.207399606704712]
+Block 28‘s Average loss: 1.20743, Aggregation loss: 1.20752
+
+oaast_sft
+Global training Round: 1, block 29
+Client for current block: [29, 61]
+Client loss for current block: [1.2073957920074463, 1.2073493003845215]
+Block 29‘s Average loss: 1.20737, Aggregation loss: 1.20742
+
+oaast_sft
+Global training Round: 1, block 30
+Client for current block: [30, 62]
+Client loss for current block: [1.2074403762817383, 1.207073450088501]
+Block 30‘s Average loss: 1.20726, Aggregation loss: 1.20729
+
+64clients, round1, agg, round_time: 13879.806180477142
+
+oaast_sft
+Global training Round: 1, block 31
+Client for current block: [31, 63]
+Client loss for current block: [1.2071435451507568, 1.2066477537155151]
+Block 31‘s Average loss: 1.2069, Aggregation loss: 1.20691
+
+oaast_sft
+Global training Round: 2, block 0
+Client for current block: [0, 32]
+Client loss for current block: [1.206630825996399, 1.2058855295181274]
+Block 0‘s Average loss: 1.20626, Aggregation loss: 1.20639
+
+oaast_sft
+Global training Round: 2, block 1
+Client for current block: [1, 33]
+Client loss for current block: [1.2059463262557983, 1.205169677734375]
+Block 1‘s Average loss: 1.20556, Aggregation loss: 1.20568
+
+oaast_sft
+Global training Round: 2, block 2
+Client for current block: [2, 34]
+Client loss for current block: [1.2055248022079468, 1.204720377922058]
+Block 2‘s Average loss: 1.20512, Aggregation loss: 1.20524
+
+oaast_sft
+Global training Round: 2, block 3
+Client for current block: [3, 35]
+Client loss for current block: [1.2050305604934692, 1.2038875818252563]
+Block 3‘s Average loss: 1.20446, Aggregation loss: 1.2047
+
+oaast_sft
+Global training Round: 2, block 4
+Client for current block: [4, 36]
+Client loss for current block: [1.2044081687927246, 1.2036088705062866]
+Block 4‘s Average loss: 1.20401, Aggregation loss: 1.20407
+
+oaast_sft
+Global training Round: 2, block 5
+Client for current block: [5, 37]
+Client loss for current block: [1.2039285898208618, 1.2033532857894897]
+Block 5‘s Average loss: 1.20364, Aggregation loss: 1.20383
+
+oaast_sft
+Global training Round: 2, block 6
+Client for current block: [6, 38]
+Client loss for current block: [1.2034876346588135, 1.2026360034942627]
+Block 6‘s Average loss: 1.20306, Aggregation loss: 1.2033
+
+oaast_sft
+Global training Round: 2, block 7
+Client for current block: [7, 39]
+Client loss for current block: [1.2032225131988525, 1.2027031183242798]
+Block 7‘s Average loss: 1.20296, Aggregation loss: 1.20307
+
+oaast_sft
+Global training Round: 2, block 8
+Client for current block: [8, 40]
+Client loss for current block: [1.2030527591705322, 1.2023569345474243]
+Block 8‘s Average loss: 1.2027, Aggregation loss: 1.20287
+
+oaast_sft
+Global training Round: 2, block 9
+Client for current block: [9, 41]
+Client loss for current block: [1.2029575109481812, 1.202202320098877]
+Block 9‘s Average loss: 1.20258, Aggregation loss: 1.20275
+
+oaast_sft
+Global training Round: 2, block 10
+Client for current block: [10, 42]
+Client loss for current block: [1.2025671005249023, 1.2020671367645264]
+Block 10‘s Average loss: 1.20232, Aggregation loss: 1.20251
+
+oaast_sft
+Global training Round: 2, block 11
+Client for current block: [11, 43]
+Client loss for current block: [1.2024824619293213, 1.2019448280334473]
+Block 11‘s Average loss: 1.20221, Aggregation loss: 1.20228
+
+oaast_sft
+Global training Round: 2, block 12
+Client for current block: [12, 44]
+Client loss for current block: [1.2022035121917725, 1.2020000219345093]
+Block 12‘s Average loss: 1.2021, Aggregation loss: 1.20219
+
+oaast_sft
+Global training Round: 2, block 13
+Client for current block: [13, 45]
+Client loss for current block: [1.2021000385284424, 1.2018163204193115]
+Block 13‘s Average loss: 1.20196, Aggregation loss: 1.20207
+
+oaast_sft
+Global training Round: 2, block 14
+Client for current block: [14, 46]
+Client loss for current block: [1.2021299600601196, 1.2018550634384155]
+Block 14‘s Average loss: 1.20199, Aggregation loss: 1.202
+
+oaast_sft
+Global training Round: 2, block 15
+Client for current block: [15, 47]
+Client loss for current block: [1.2019680738449097, 1.2017760276794434]
+Block 15‘s Average loss: 1.20187, Aggregation loss: 1.2019
+
+oaast_sft
+Global training Round: 2, block 16
+Client for current block: [16, 48]
+Client loss for current block: [1.2018769979476929, 1.2017463445663452]
+Block 16‘s Average loss: 1.20181, Aggregation loss: 1.20189
+
+oaast_sft
+Global training Round: 2, block 17
+Client for current block: [17, 49]
+Client loss for current block: [1.2018635272979736, 1.2017338275909424]
+Block 17‘s Average loss: 1.2018, Aggregation loss: 1.20184
+
+oaast_sft
+Global training Round: 2, block 18
+Client for current block: [18, 50]
+Client loss for current block: [1.201843023300171, 1.2017338275909424]
+Block 18‘s Average loss: 1.20179, Aggregation loss: 1.20174
+
+oaast_sft
+Global training Round: 2, block 19
+Client for current block: [19, 51]
+Client loss for current block: [1.201744556427002, 1.2015968561172485]
+Block 19‘s Average loss: 1.20167, Aggregation loss: 1.20171
+
+oaast_sft
+Global training Round: 2, block 20
+Client for current block: [20, 52]
+Client loss for current block: [1.2017713785171509, 1.2017122507095337]
+Block 20‘s Average loss: 1.20174, Aggregation loss: 1.20174
+
+oaast_sft
+Global training Round: 2, block 21
+Client for current block: [21, 53]
+Client loss for current block: [1.2016717195510864, 1.2016253471374512]
+Block 21‘s Average loss: 1.20165, Aggregation loss: 1.20168
+
+oaast_sft
+Global training Round: 2, block 22
+Client for current block: [22, 54]
+Client loss for current block: [1.2017077207565308, 1.2015471458435059]
+Block 22‘s Average loss: 1.20163, Aggregation loss: 1.20172
+
+oaast_sft
+Global training Round: 2, block 23
+Client for current block: [23, 55]
+Client loss for current block: [1.2015944719314575, 1.201719045639038]
+Block 23‘s Average loss: 1.20166, Aggregation loss: 1.20172
+
+oaast_sft
+Global training Round: 2, block 24
+Client for current block: [24, 56]
+Client loss for current block: [1.201665997505188, 1.2015886306762695]
+Block 24‘s Average loss: 1.20163, Aggregation loss: 1.20159
+
+oaast_sft
+Global training Round: 2, block 25
+Client for current block: [25, 57]
+Client loss for current block: [1.201705813407898, 1.2015351057052612]
+Block 25‘s Average loss: 1.20162, Aggregation loss: 1.20162
+
+oaast_sft
+Global training Round: 2, block 26
+Client for current block: [26, 58]
+Client loss for current block: [1.2016793489456177, 1.2015103101730347]
+Block 26‘s Average loss: 1.20159, Aggregation loss: 1.2016
+
+oaast_sft
+Global training Round: 2, block 27
+Client for current block: [27, 59]
+Client loss for current block: [1.2016539573669434, 1.2013370990753174]
+Block 27‘s Average loss: 1.2015, Aggregation loss: 1.2015
+
+oaast_sft
+Global training Round: 2, block 28
+Client for current block: [28, 60]
+Client loss for current block: [1.2015058994293213, 1.201415777206421]
+Block 28‘s Average loss: 1.20146, Aggregation loss: 1.20148
+
+oaast_sft
+Global training Round: 2, block 29
+Client for current block: [29, 61]
+Client loss for current block: [1.201430320739746, 1.2013449668884277]
+Block 29‘s Average loss: 1.20139, Aggregation loss: 1.20144
+
+oaast_sft
+Global training Round: 2, block 30
+Client for current block: [30, 62]
+Client loss for current block: [1.201409101486206, 1.2012629508972168]
+Block 30‘s Average loss: 1.20134, Aggregation loss: 1.20127
+
+64clients, round2, agg, round_time: 13872.051662683487
+
+oaast_sft
+Global training Round: 2, block 31
+Client for current block: [31, 63]
+Client loss for current block: [1.2012096643447876, 1.2009087800979614]
+Block 31‘s Average loss: 1.20106, Aggregation loss: 1.2011
+
+oaast_sft
+Global training Round: 3, block 0
+Client for current block: [0, 32]
+Client loss for current block: [1.2009978294372559, 1.2004196643829346]
+Block 0‘s Average loss: 1.20071, Aggregation loss: 1.20081
+
+oaast_sft
+Global training Round: 3, block 1
+Client for current block: [1, 33]
+Client loss for current block: [1.2006938457489014, 1.200286626815796]
+Block 1‘s Average loss: 1.20049, Aggregation loss: 1.20053
+
+oaast_sft
+Global training Round: 3, block 2
+Client for current block: [2, 34]
+Client loss for current block: [1.200422763824463, 1.1998894214630127]
+Block 2‘s Average loss: 1.20016, Aggregation loss: 1.20017
+
+oaast_sft
+Global training Round: 3, block 3
+Client for current block: [3, 35]
+Client loss for current block: [1.200195550918579, 1.199344515800476]
+Block 3‘s Average loss: 1.19977, Aggregation loss: 1.20002
+
+oaast_sft
+Global training Round: 3, block 4
+Client for current block: [4, 36]
+Client loss for current block: [1.1999112367630005, 1.1993290185928345]
+Block 4‘s Average loss: 1.19962, Aggregation loss: 1.19973
+
+oaast_sft
+Global training Round: 3, block 5
+Client for current block: [5, 37]
+Client loss for current block: [1.1997058391571045, 1.1991549730300903]
+Block 5‘s Average loss: 1.19943, Aggregation loss: 1.19948
+
+oaast_sft
+Global training Round: 3, block 6
+Client for current block: [6, 38]
+Client loss for current block: [1.199648380279541, 1.1988918781280518]
+Block 6‘s Average loss: 1.19927, Aggregation loss: 1.19927
+
+oaast_sft
+Global training Round: 3, block 7
+Client for current block: [7, 39]
+Client loss for current block: [1.1994004249572754, 1.1987971067428589]
+Block 7‘s Average loss: 1.1991, Aggregation loss: 1.19916
+
+oaast_sft
+Global training Round: 3, block 8
+Client for current block: [8, 40]
+Client loss for current block: [1.1990556716918945, 1.1986713409423828]
+Block 8‘s Average loss: 1.19886, Aggregation loss: 1.1991
+
+oaast_sft
+Global training Round: 3, block 9
+Client for current block: [9, 41]
+Client loss for current block: [1.1991345882415771, 1.1986808776855469]
+Block 9‘s Average loss: 1.19891, Aggregation loss: 1.19906
+
+oaast_sft
+Global training Round: 3, block 10
+Client for current block: [10, 42]
+Client loss for current block: [1.1989599466323853, 1.1985783576965332]
+Block 10‘s Average loss: 1.19877, Aggregation loss: 1.1988
+
+oaast_sft
+Global training Round: 3, block 11
+Client for current block: [11, 43]
+Client loss for current block: [1.1987425088882446, 1.198477029800415]
+Block 11‘s Average loss: 1.19861, Aggregation loss: 1.19876
+
+oaast_sft
+Global training Round: 3, block 12
+Client for current block: [12, 44]
+Client loss for current block: [1.1987526416778564, 1.1985230445861816]
+Block 12‘s Average loss: 1.19864, Aggregation loss: 1.19862
+
+oaast_sft
+Global training Round: 3, block 13
+Client for current block: [13, 45]
+Client loss for current block: [1.1986470222473145, 1.1983857154846191]
+Block 13‘s Average loss: 1.19852, Aggregation loss: 1.19861
+
+oaast_sft
+Global training Round: 3, block 14
+Client for current block: [14, 46]
+Client loss for current block: [1.1985292434692383, 1.19838547706604]
+Block 14‘s Average loss: 1.19846, Aggregation loss: 1.19856
+
+oaast_sft
+Global training Round: 3, block 15
+Client for current block: [15, 47]
+Client loss for current block: [1.1985151767730713, 1.1984882354736328]
+Block 15‘s Average loss: 1.1985, Aggregation loss: 1.19852
+
+oaast_sft
+Global training Round: 3, block 16
+Client for current block: [16, 48]
+Client loss for current block: [1.1984466314315796, 1.1983318328857422]
+Block 16‘s Average loss: 1.19839, Aggregation loss: 1.19845
+
+oaast_sft
+Global training Round: 3, block 17
+Client for current block: [17, 49]
+Client loss for current block: [1.198398470878601, 1.1983122825622559]
+Block 17‘s Average loss: 1.19836, Aggregation loss: 1.19853
+
+oaast_sft
+Global training Round: 3, block 18
+Client for current block: [18, 50]
+Client loss for current block: [1.1984061002731323, 1.1983295679092407]
+Block 18‘s Average loss: 1.19837, Aggregation loss: 1.19838
+
+oaast_sft
+Global training Round: 3, block 19
+Client for current block: [19, 51]
+Client loss for current block: [1.1984931230545044, 1.1982775926589966]
+Block 19‘s Average loss: 1.19839, Aggregation loss: 1.19841
+
+oaast_sft
+Global training Round: 3, block 20
+Client for current block: [20, 52]
+Client loss for current block: [1.1983917951583862, 1.1982500553131104]
+Block 20‘s Average loss: 1.19832, Aggregation loss: 1.1984
+
+oaast_sft
+Global training Round: 3, block 21
+Client for current block: [21, 53]
+Client loss for current block: [1.1983081102371216, 1.1983519792556763]
+Block 21‘s Average loss: 1.19833, Aggregation loss: 1.19845
+
+oaast_sft
+Global training Round: 3, block 22
+Client for current block: [22, 54]
+Client loss for current block: [1.1983551979064941, 1.1983338594436646]
+Block 22‘s Average loss: 1.19834, Aggregation loss: 1.19827
+
+oaast_sft
+Global training Round: 3, block 23
+Client for current block: [23, 55]
+Client loss for current block: [1.1983327865600586, 1.1983366012573242]
+Block 23‘s Average loss: 1.19833, Aggregation loss: 1.19833
+
+oaast_sft
+Global training Round: 3, block 24
+Client for current block: [24, 56]
+Client loss for current block: [1.1983293294906616, 1.1982676982879639]
+Block 24‘s Average loss: 1.1983, Aggregation loss: 1.19837
+
+oaast_sft
+Global training Round: 3, block 25
+Client for current block: [25, 57]
+Client loss for current block: [1.1983885765075684, 1.1982795000076294]
+Block 25‘s Average loss: 1.19833, Aggregation loss: 1.19834
+
+oaast_sft
+Global training Round: 3, block 26
+Client for current block: [26, 58]
+Client loss for current block: [1.1983017921447754, 1.1981831789016724]
+Block 26‘s Average loss: 1.19824, Aggregation loss: 1.19833
+
+oaast_sft
+Global training Round: 3, block 27
+Client for current block: [27, 59]
+Client loss for current block: [1.198327660560608, 1.1981409788131714]
+Block 27‘s Average loss: 1.19823, Aggregation loss: 1.19827
+
+oaast_sft
+Global training Round: 3, block 28
+Client for current block: [28, 60]
+Client loss for current block: [1.1982475519180298, 1.1981620788574219]
+Block 28‘s Average loss: 1.1982, Aggregation loss: 1.19823
+
+oaast_sft
+Global training Round: 3, block 29
+Client for current block: [29, 61]
+Client loss for current block: [1.1981828212738037, 1.198013186454773]
+Block 29‘s Average loss: 1.1981, Aggregation loss: 1.19826
+
+oaast_sft
+Global training Round: 3, block 30
+Client for current block: [30, 62]
+Client loss for current block: [1.1981816291809082, 1.1979602575302124]
+Block 30‘s Average loss: 1.19807, Aggregation loss: 1.19815
+
+64clients, round3, agg, round_time: 13866.859149932861
+
+oaast_sft
+Global training Round: 3, block 31
+Client for current block: [31, 63]
+Client loss for current block: [1.198083519935608, 1.1980775594711304]
+Block 31‘s Average loss: 1.19808, Aggregation loss: 1.19814
+
+oaast_sft
+Global training Round: 4, block 0
+Client for current block: [0, 32]
+Client loss for current block: [1.1980175971984863, 1.1976029872894287]
+Block 0‘s Average loss: 1.19781, Aggregation loss: 1.19785
+
+oaast_sft
+Global training Round: 4, block 1
+Client for current block: [1, 33]
+Client loss for current block: [1.197729229927063, 1.1975058317184448]
+Block 1‘s Average loss: 1.19762, Aggregation loss: 1.19763
+
+oaast_sft
+Global training Round: 4, block 2
+Client for current block: [2, 34]
+Client loss for current block: [1.1975449323654175, 1.197052001953125]
+Block 2‘s Average loss: 1.1973, Aggregation loss: 1.19751
+
+oaast_sft
+Global training Round: 4, block 3
+Client for current block: [3, 35]
+Client loss for current block: [1.197371244430542, 1.19685697555542]
+Block 3‘s Average loss: 1.19711, Aggregation loss: 1.19729
+
+oaast_sft
+Global training Round: 4, block 4
+Client for current block: [4, 36]
+Client loss for current block: [1.1971755027770996, 1.1966520547866821]
+Block 4‘s Average loss: 1.19691, Aggregation loss: 1.19711
+
+oaast_sft
+Global training Round: 4, block 5
+Client for current block: [5, 37]
+Client loss for current block: [1.1970897912979126, 1.1966687440872192]
+Block 5‘s Average loss: 1.19688, Aggregation loss: 1.19707
+
+oaast_sft
+Global training Round: 4, block 6
+Client for current block: [6, 38]
+Client loss for current block: [1.1969389915466309, 1.1964929103851318]
+Block 6‘s Average loss: 1.19672, Aggregation loss: 1.19688
+
+oaast_sft
+Global training Round: 4, block 7
+Client for current block: [7, 39]
+Client loss for current block: [1.1968082189559937, 1.1963547468185425]
+Block 7‘s Average loss: 1.19658, Aggregation loss: 1.19678
+
+oaast_sft
+Global training Round: 4, block 8
+Client for current block: [8, 40]
+Client loss for current block: [1.1966547966003418, 1.1963632106781006]
+Block 8‘s Average loss: 1.19651, Aggregation loss: 1.19657
+
+oaast_sft
+Global training Round: 4, block 9
+Client for current block: [9, 41]
+Client loss for current block: [1.1966030597686768, 1.1962016820907593]
+Block 9‘s Average loss: 1.1964, Aggregation loss: 1.19644
+
+oaast_sft
+Global training Round: 4, block 10
+Client for current block: [10, 42]
+Client loss for current block: [1.196426510810852, 1.1962181329727173]
+Block 10‘s Average loss: 1.19632, Aggregation loss: 1.19639
+
+oaast_sft
+Global training Round: 4, block 11
+Client for current block: [11, 43]
+Client loss for current block: [1.196319580078125, 1.1961572170257568]
+Block 11‘s Average loss: 1.19624, Aggregation loss: 1.19634
+
+oaast_sft
+Global training Round: 4, block 12
+Client for current block: [12, 44]
+Client loss for current block: [1.1962189674377441, 1.1960512399673462]
+Block 12‘s Average loss: 1.19614, Aggregation loss: 1.19619
+
+oaast_sft
+Global training Round: 4, block 13
+Client for current block: [13, 45]
+Client loss for current block: [1.1960481405258179, 1.196045160293579]
+Block 13‘s Average loss: 1.19605, Aggregation loss: 1.19611
+
+oaast_sft
+Global training Round: 4, block 14
+Client for current block: [14, 46]
+Client loss for current block: [1.1960763931274414, 1.195993423461914]
+Block 14‘s Average loss: 1.19603, Aggregation loss: 1.19612
+
+oaast_sft
+Global training Round: 4, block 15
+Client for current block: [15, 47]
+Client loss for current block: [1.1960514783859253, 1.195977807044983]
+Block 15‘s Average loss: 1.19601, Aggregation loss: 1.19609
+
+oaast_sft
+Global training Round: 4, block 16
+Client for current block: [16, 48]
+Client loss for current block: [1.1960426568984985, 1.1959384679794312]
+Block 16‘s Average loss: 1.19599, Aggregation loss: 1.19598
+
+oaast_sft
+Global training Round: 4, block 17
+Client for current block: [17, 49]
+Client loss for current block: [1.1959878206253052, 1.1959766149520874]
+Block 17‘s Average loss: 1.19598, Aggregation loss: 1.19605
+
+oaast_sft
+Global training Round: 4, block 18
+Client for current block: [18, 50]
+Client loss for current block: [1.1960277557373047, 1.1959120035171509]
+Block 18‘s Average loss: 1.19597, Aggregation loss: 1.19603
+
+oaast_sft
+Global training Round: 4, block 19
+Client for current block: [19, 51]
+Client loss for current block: [1.1959953308105469, 1.1959755420684814]
+Block 19‘s Average loss: 1.19599, Aggregation loss: 1.19601
+
+oaast_sft
+Global training Round: 4, block 20
+Client for current block: [20, 52]
+Client loss for current block: [1.1960010528564453, 1.1958987712860107]
+Block 20‘s Average loss: 1.19595, Aggregation loss: 1.19602
+
+oaast_sft
+Global training Round: 4, block 21
+Client for current block: [21, 53]
+Client loss for current block: [1.1959683895111084, 1.1958436965942383]
+Block 21‘s Average loss: 1.19591, Aggregation loss: 1.19597
+
+oaast_sft
+Global training Round: 4, block 22
+Client for current block: [22, 54]
+Client loss for current block: [1.1959084272384644, 1.1959004402160645]
+Block 22‘s Average loss: 1.1959, Aggregation loss: 1.19593
+
+oaast_sft
+Global training Round: 4, block 23
+Client for current block: [23, 55]
+Client loss for current block: [1.1959565877914429, 1.1958940029144287]
+Block 23‘s Average loss: 1.19593, Aggregation loss: 1.1959
+
+oaast_sft
+Global training Round: 4, block 24
+Client for current block: [24, 56]
+Client loss for current block: [1.1959155797958374, 1.1958762407302856]
+Block 24‘s Average loss: 1.1959, Aggregation loss: 1.19588
+
+oaast_sft
+Global training Round: 4, block 25
+Client for current block: [25, 57]
+Client loss for current block: [1.195919394493103, 1.1957752704620361]
+Block 25‘s Average loss: 1.19585, Aggregation loss: 1.19581
+
+oaast_sft
+Global training Round: 4, block 26
+Client for current block: [26, 58]
+Client loss for current block: [1.1958469152450562, 1.1957637071609497]
+Block 26‘s Average loss: 1.19581, Aggregation loss: 1.19588
+
+oaast_sft
+Global training Round: 4, block 27
+Client for current block: [27, 59]
+Client loss for current block: [1.1958690881729126, 1.19575035572052]
+Block 27‘s Average loss: 1.19581, Aggregation loss: 1.19583
+
+oaast_sft
+Global training Round: 4, block 28
+Client for current block: [28, 60]
+Client loss for current block: [1.195767879486084, 1.1956998109817505]
+Block 28‘s Average loss: 1.19573, Aggregation loss: 1.19586
+
+oaast_sft
+Global training Round: 4, block 29
+Client for current block: [29, 61]
+Client loss for current block: [1.1957992315292358, 1.1956899166107178]
+Block 29‘s Average loss: 1.19574, Aggregation loss: 1.19574
+
+oaast_sft
+Global training Round: 4, block 30
+Client for current block: [30, 62]
+Client loss for current block: [1.1957846879959106, 1.1955668926239014]
+Block 30‘s Average loss: 1.19568, Aggregation loss: 1.19576
+
+64clients, round4, agg, round_time: 13857.842609882355
+
+oaast_sft
+Global training Round: 4, block 31
+Client for current block: [31, 63]
+Client loss for current block: [1.1957011222839355, 1.1955652236938477]
+Block 31‘s Average loss: 1.19563, Aggregation loss: 1.19569
+
+oaast_sft
+Global training Round: 5, block 0
+Client for current block: [0, 32]
+Client loss for current block: [1.1956170797348022, 1.1954243183135986]
+Block 0‘s Average loss: 1.19552, Aggregation loss: 1.19557
+
+oaast_sft
+Global training Round: 5, block 1
+Client for current block: [1, 33]
+Client loss for current block: [1.1954227685928345, 1.195566177368164]
+Block 1‘s Average loss: 1.19549, Aggregation loss: 1.19539
+
+oaast_sft
+Global training Round: 5, block 2
+Client for current block: [2, 34]
+Client loss for current block: [1.1951985359191895, 1.1950798034667969]
+Block 2‘s Average loss: 1.19514, Aggregation loss: 1.19521
+
+oaast_sft
+Global training Round: 5, block 3
+Client for current block: [3, 35]
+Client loss for current block: [1.1952515840530396, 1.1947904825210571]
+Block 3‘s Average loss: 1.19502, Aggregation loss: 1.19504
+
+oaast_sft
+Global training Round: 5, block 4
+Client for current block: [4, 36]
+Client loss for current block: [1.1949161291122437, 1.1946247816085815]
+Block 4‘s Average loss: 1.19477, Aggregation loss: 1.19498
+
+oaast_sft
+Global training Round: 5, block 5
+Client for current block: [5, 37]
+Client loss for current block: [1.194757103919983, 1.1944475173950195]
+Block 5‘s Average loss: 1.1946, Aggregation loss: 1.19472
+
+oaast_sft
+Global training Round: 5, block 6
+Client for current block: [6, 38]
+Client loss for current block: [1.1945472955703735, 1.1944067478179932]
+Block 6‘s Average loss: 1.19448, Aggregation loss: 1.1946
+
+oaast_sft
+Global training Round: 5, block 7
+Client for current block: [7, 39]
+Client loss for current block: [1.1942764520645142, 1.1944624185562134]
+Block 7‘s Average loss: 1.19437, Aggregation loss: 1.19453
+
+oaast_sft
+Global training Round: 5, block 8
+Client for current block: [8, 40]
+Client loss for current block: [1.1944048404693604, 1.1942678689956665]
+Block 8‘s Average loss: 1.19434, Aggregation loss: 1.19435
+
+oaast_sft
+Global training Round: 5, block 9
+Client for current block: [9, 41]
+Client loss for current block: [1.194365382194519, 1.1941437721252441]
+Block 9‘s Average loss: 1.19425, Aggregation loss: 1.19431
+
+oaast_sft
+Global training Round: 5, block 10
+Client for current block: [10, 42]
+Client loss for current block: [1.1942050457000732, 1.1940057277679443]
+Block 10‘s Average loss: 1.19411, Aggregation loss: 1.19435
+
+oaast_sft
+Global training Round: 5, block 11
+Client for current block: [11, 43]
+Client loss for current block: [1.194162368774414, 1.1939603090286255]
+Block 11‘s Average loss: 1.19406, Aggregation loss: 1.19409
+
+oaast_sft
+Global training Round: 5, block 12
+Client for current block: [12, 44]
+Client loss for current block: [1.1940356492996216, 1.193830966949463]
+Block 12‘s Average loss: 1.19393, Aggregation loss: 1.19393
+
+oaast_sft
+Global training Round: 5, block 13
+Client for current block: [13, 45]
+Client loss for current block: [1.1940534114837646, 1.1939969062805176]
+Block 13‘s Average loss: 1.19403, Aggregation loss: 1.19412
+
+oaast_sft
+Global training Round: 5, block 14
+Client for current block: [14, 46]
+Client loss for current block: [1.1940244436264038, 1.193906545639038]
+Block 14‘s Average loss: 1.19397, Aggregation loss: 1.19386
+
+oaast_sft
+Global training Round: 5, block 15
+Client for current block: [15, 47]
+Client loss for current block: [1.1938506364822388, 1.1937791109085083]
+Block 15‘s Average loss: 1.19381, Aggregation loss: 1.1939
+
+oaast_sft
+Global training Round: 5, block 16
+Client for current block: [16, 48]
+Client loss for current block: [1.193784236907959, 1.1937400102615356]
+Block 16‘s Average loss: 1.19376, Aggregation loss: 1.19389
+
+oaast_sft
+Global training Round: 5, block 17
+Client for current block: [17, 49]
+Client loss for current block: [1.1937010288238525, 1.193720817565918]
+Block 17‘s Average loss: 1.19371, Aggregation loss: 1.19386
+
+oaast_sft
+Global training Round: 5, block 18
+Client for current block: [18, 50]
+Client loss for current block: [1.1938544511795044, 1.1937602758407593]
+Block 18‘s Average loss: 1.19381, Aggregation loss: 1.19378
+
+oaast_sft
+Global training Round: 5, block 19
+Client for current block: [19, 51]
+Client loss for current block: [1.1938012838363647, 1.1937309503555298]
+Block 19‘s Average loss: 1.19377, Aggregation loss: 1.19368
+
+oaast_sft
+Global training Round: 5, block 20
+Client for current block: [20, 52]
+Client loss for current block: [1.193758487701416, 1.1936215162277222]
+Block 20‘s Average loss: 1.19369, Aggregation loss: 1.1937
+
+oaast_sft
+Global training Round: 5, block 21
+Client for current block: [21, 53]
+Client loss for current block: [1.1937388181686401, 1.1936622858047485]
+Block 21‘s Average loss: 1.1937, Aggregation loss: 1.19375
+
+oaast_sft
+Global training Round: 5, block 22
+Client for current block: [22, 54]
+Client loss for current block: [1.1937477588653564, 1.1936296224594116]
+Block 22‘s Average loss: 1.19369, Aggregation loss: 1.19368
+
+oaast_sft
+Global training Round: 5, block 23
+Client for current block: [23, 55]
+Client loss for current block: [1.1936503648757935, 1.1937048435211182]
+Block 23‘s Average loss: 1.19368, Aggregation loss: 1.19369
+
+oaast_sft
+Global training Round: 5, block 24
+Client for current block: [24, 56]
+Client loss for current block: [1.1936726570129395, 1.1937414407730103]
+Block 24‘s Average loss: 1.19371, Aggregation loss: 1.1937
+
+oaast_sft
+Global training Round: 5, block 25
+Client for current block: [25, 57]
+Client loss for current block: [1.1935731172561646, 1.1935266256332397]
+Block 25‘s Average loss: 1.19355, Aggregation loss: 1.19367
+
+oaast_sft
+Global training Round: 5, block 26
+Client for current block: [26, 58]
+Client loss for current block: [1.1935781240463257, 1.1935169696807861]
+Block 26‘s Average loss: 1.19355, Aggregation loss: 1.1936
+
+oaast_sft
+Global training Round: 5, block 27
+Client for current block: [27, 59]
+Client loss for current block: [1.1935139894485474, 1.1934882402420044]
+Block 27‘s Average loss: 1.1935, Aggregation loss: 1.19353
+
+oaast_sft
+Global training Round: 5, block 28
+Client for current block: [28, 60]
+Client loss for current block: [1.1935175657272339, 1.1934845447540283]
+Block 28‘s Average loss: 1.1935, Aggregation loss: 1.1935
+
+oaast_sft
+Global training Round: 5, block 29
+Client for current block: [29, 61]
+Client loss for current block: [1.193554162979126, 1.1934795379638672]
+Block 29‘s Average loss: 1.19352, Aggregation loss: 1.19352
+
+oaast_sft
+Global training Round: 5, block 30
+Client for current block: [30, 62]
+Client loss for current block: [1.1934162378311157, 1.1933693885803223]
+Block 30‘s Average loss: 1.19339, Aggregation loss: 1.19346
+
+64clients, round5, agg, round_time: 13866.810959815979
+
+oaast_sft
+Global training Round: 5, block 31
+Client for current block: [31, 63]
+Client loss for current block: [1.193454623222351, 1.1930649280548096]
+Block 31‘s Average loss: 1.19326, Aggregation loss: 1.19328
+
+oaast_sft
+Global training Round: 6, block 0
+Client for current block: [0, 32]
+Client loss for current block: [1.1933828592300415, 1.1932294368743896]
+Block 0‘s Average loss: 1.19331, Aggregation loss: 1.19318
+
+oaast_sft
+Global training Round: 6, block 1
+Client for current block: [1, 33]
+Client loss for current block: [1.1930738687515259, 1.1933547258377075]
+Block 1‘s Average loss: 1.19321, Aggregation loss: 1.19318
+
+oaast_sft
+Global training Round: 6, block 2
+Client for current block: [2, 34]
+Client loss for current block: [1.1929372549057007, 1.1929861307144165]
+Block 2‘s Average loss: 1.19296, Aggregation loss: 1.19303
+
+oaast_sft
+Global training Round: 6, block 3
+Client for current block: [3, 35]
+Client loss for current block: [1.1929081678390503, 1.1929253339767456]
+Block 3‘s Average loss: 1.19292, Aggregation loss: 1.19305
+
+oaast_sft
+Global training Round: 6, block 4
+Client for current block: [4, 36]
+Client loss for current block: [1.1927608251571655, 1.1926156282424927]
+Block 4‘s Average loss: 1.19269, Aggregation loss: 1.19285
+
+oaast_sft
+Global training Round: 6, block 5
+Client for current block: [5, 37]
+Client loss for current block: [1.192386269569397, 1.1924830675125122]
+Block 5‘s Average loss: 1.19243, Aggregation loss: 1.19251
+
+oaast_sft
+Global training Round: 6, block 6
+Client for current block: [6, 38]
+Client loss for current block: [1.1924290657043457, 1.1924570798873901]
+Block 6‘s Average loss: 1.19244, Aggregation loss: 1.19242
+
+oaast_sft
+Global training Round: 6, block 7
+Client for current block: [7, 39]
+Client loss for current block: [1.1921862363815308, 1.192426323890686]
+Block 7‘s Average loss: 1.19231, Aggregation loss: 1.19239
+
+oaast_sft
+Global training Round: 6, block 8
+Client for current block: [8, 40]
+Client loss for current block: [1.1923104524612427, 1.1922951936721802]
+Block 8‘s Average loss: 1.1923, Aggregation loss: 1.1923
+
+oaast_sft
+Global training Round: 6, block 9
+Client for current block: [9, 41]
+Client loss for current block: [1.1922780275344849, 1.1921145915985107]
+Block 9‘s Average loss: 1.1922, Aggregation loss: 1.19229
+
+oaast_sft
+Global training Round: 6, block 10
+Client for current block: [10, 42]
+Client loss for current block: [1.1921042203903198, 1.1919604539871216]
+Block 10‘s Average loss: 1.19203, Aggregation loss: 1.19214
+
+oaast_sft
+Global training Round: 6, block 11
+Client for current block: [11, 43]
+Client loss for current block: [1.191873550415039, 1.1919344663619995]
+Block 11‘s Average loss: 1.1919, Aggregation loss: 1.19199
+
+oaast_sft
+Global training Round: 6, block 12
+Client for current block: [12, 44]
+Client loss for current block: [1.1918164491653442, 1.1918725967407227]
+Block 12‘s Average loss: 1.19184, Aggregation loss: 1.19198
+
+oaast_sft
+Global training Round: 6, block 13
+Client for current block: [13, 45]
+Client loss for current block: [1.1918269395828247, 1.1918412446975708]
+Block 13‘s Average loss: 1.19183, Aggregation loss: 1.19193
+
+oaast_sft
+Global training Round: 6, block 14
+Client for current block: [14, 46]
+Client loss for current block: [1.191925287246704, 1.1917892694473267]
+Block 14‘s Average loss: 1.19186, Aggregation loss: 1.19183
+
+oaast_sft
+Global training Round: 6, block 15
+Client for current block: [15, 47]
+Client loss for current block: [1.1917065382003784, 1.19175386428833]
+Block 15‘s Average loss: 1.19173, Aggregation loss: 1.19182
+
+oaast_sft
+Global training Round: 6, block 16
+Client for current block: [16, 48]
+Client loss for current block: [1.1917200088500977, 1.1915771961212158]
+Block 16‘s Average loss: 1.19165, Aggregation loss: 1.1919
+
+oaast_sft
+Global training Round: 6, block 17
+Client for current block: [17, 49]
+Client loss for current block: [1.1917606592178345, 1.19160795211792]
+Block 17‘s Average loss: 1.19168, Aggregation loss: 1.1917
+
+oaast_sft
+Global training Round: 6, block 18
+Client for current block: [18, 50]
+Client loss for current block: [1.1917541027069092, 1.1915843486785889]
+Block 18‘s Average loss: 1.19167, Aggregation loss: 1.19175
+
+oaast_sft
+Global training Round: 6, block 19
+Client for current block: [19, 51]
+Client loss for current block: [1.1916559934616089, 1.1916481256484985]
+Block 19‘s Average loss: 1.19165, Aggregation loss: 1.19156
+
+oaast_sft
+Global training Round: 6, block 20
+Client for current block: [20, 52]
+Client loss for current block: [1.191593050956726, 1.1915597915649414]
+Block 20‘s Average loss: 1.19158, Aggregation loss: 1.19172
+
+oaast_sft
+Global training Round: 6, block 21
+Client for current block: [21, 53]
+Client loss for current block: [1.1916338205337524, 1.1915875673294067]
+Block 21‘s Average loss: 1.19161, Aggregation loss: 1.19158
+
+oaast_sft
+Global training Round: 6, block 22
+Client for current block: [22, 54]
+Client loss for current block: [1.1916184425354004, 1.1916135549545288]
+Block 22‘s Average loss: 1.19162, Aggregation loss: 1.19158
+
+oaast_sft
+Global training Round: 6, block 23
+Client for current block: [23, 55]
+Client loss for current block: [1.191557765007019, 1.1916347742080688]
+Block 23‘s Average loss: 1.1916, Aggregation loss: 1.19149
+
+oaast_sft
+Global training Round: 6, block 24
+Client for current block: [24, 56]
+Client loss for current block: [1.191526174545288, 1.1915203332901]
+Block 24‘s Average loss: 1.19152, Aggregation loss: 1.19163
+
+oaast_sft
+Global training Round: 6, block 25
+Client for current block: [25, 57]
+Client loss for current block: [1.191512942314148, 1.1915082931518555]
+Block 25‘s Average loss: 1.19151, Aggregation loss: 1.19149
+
+oaast_sft
+Global training Round: 6, block 26
+Client for current block: [26, 58]
+Client loss for current block: [1.1914821863174438, 1.1914390325546265]
+Block 26‘s Average loss: 1.19146, Aggregation loss: 1.19158
+
+oaast_sft
+Global training Round: 6, block 27
+Client for current block: [27, 59]
+Client loss for current block: [1.1914340257644653, 1.19144606590271]
+Block 27‘s Average loss: 1.19144, Aggregation loss: 1.19156
+
+oaast_sft
+Global training Round: 6, block 28
+Client for current block: [28, 60]
+Client loss for current block: [1.1914819478988647, 1.1915147304534912]
+Block 28‘s Average loss: 1.1915, Aggregation loss: 1.19155
+
+oaast_sft
+Global training Round: 6, block 29
+Client for current block: [29, 61]
+Client loss for current block: [1.1914732456207275, 1.1913925409317017]
+Block 29‘s Average loss: 1.19143, Aggregation loss: 1.19143
+
+oaast_sft
+Global training Round: 6, block 30
+Client for current block: [30, 62]
+Client loss for current block: [1.1914057731628418, 1.1913678646087646]
+Block 30‘s Average loss: 1.19139, Aggregation loss: 1.19137
+
+64clients, round6, agg, round_time: 13871.69720196724
+
+oaast_sft
+Global training Round: 6, block 31
+Client for current block: [31, 63]
+Client loss for current block: [1.1913225650787354, 1.191257357597351]
+Block 31‘s Average loss: 1.19129, Aggregation loss: 1.19129
+
+oaast_sft
+Global training Round: 7, block 0
+Client for current block: [0, 32]
+Client loss for current block: [1.191167950630188, 1.191107153892517]
+Block 0‘s Average loss: 1.19114, Aggregation loss: 1.19126
+
+oaast_sft
+Global training Round: 7, block 1
+Client for current block: [1, 33]
+Client loss for current block: [1.1911180019378662, 1.191247820854187]
+Block 1‘s Average loss: 1.19118, Aggregation loss: 1.1911
+
+oaast_sft
+Global training Round: 7, block 2
+Client for current block: [2, 34]
+Client loss for current block: [1.190887689590454, 1.1910597085952759]
+Block 2‘s Average loss: 1.19097, Aggregation loss: 1.19089
+
+oaast_sft
+Global training Round: 7, block 3
+Client for current block: [3, 35]
+Client loss for current block: [1.1909849643707275, 1.1909211874008179]
+Block 3‘s Average loss: 1.19095, Aggregation loss: 1.19091
+
+oaast_sft
+Global training Round: 7, block 4
+Client for current block: [4, 36]
+Client loss for current block: [1.1906543970108032, 1.190713882446289]
+Block 4‘s Average loss: 1.19068, Aggregation loss: 1.19085
+
+oaast_sft
+Global training Round: 7, block 5
+Client for current block: [5, 37]
+Client loss for current block: [1.1905092000961304, 1.190518856048584]
+Block 5‘s Average loss: 1.19051, Aggregation loss: 1.19048
+
+oaast_sft
+Global training Round: 7, block 6
+Client for current block: [6, 38]
+Client loss for current block: [1.1902730464935303, 1.1905416250228882]
+Block 6‘s Average loss: 1.19041, Aggregation loss: 1.19033
+
+oaast_sft
+Global training Round: 7, block 7
+Client for current block: [7, 39]
+Client loss for current block: [1.1902477741241455, 1.1904430389404297]
+Block 7‘s Average loss: 1.19035, Aggregation loss: 1.19042
+
+oaast_sft
+Global training Round: 7, block 8
+Client for current block: [8, 40]
+Client loss for current block: [1.1903274059295654, 1.1904058456420898]
+Block 8‘s Average loss: 1.19037, Aggregation loss: 1.19036
+
+oaast_sft
+Global training Round: 7, block 9
+Client for current block: [9, 41]
+Client loss for current block: [1.190380573272705, 1.1903291940689087]
+Block 9‘s Average loss: 1.19035, Aggregation loss: 1.1902
+
+oaast_sft
+Global training Round: 7, block 10
+Client for current block: [10, 42]
+Client loss for current block: [1.1901423931121826, 1.1901811361312866]
+Block 10‘s Average loss: 1.19016, Aggregation loss: 1.19024
+
+oaast_sft
+Global training Round: 7, block 11
+Client for current block: [11, 43]
+Client loss for current block: [1.1899954080581665, 1.1901177167892456]
+Block 11‘s Average loss: 1.19006, Aggregation loss: 1.19008
+
+oaast_sft
+Global training Round: 7, block 12
+Client for current block: [12, 44]
+Client loss for current block: [1.1899709701538086, 1.1899858713150024]
+Block 12‘s Average loss: 1.18998, Aggregation loss: 1.1899
+
+oaast_sft
+Global training Round: 7, block 13
+Client for current block: [13, 45]
+Client loss for current block: [1.1898564100265503, 1.1900888681411743]
+Block 13‘s Average loss: 1.18997, Aggregation loss: 1.18996
+
+oaast_sft
+Global training Round: 7, block 14
+Client for current block: [14, 46]
+Client loss for current block: [1.1898314952850342, 1.190037488937378]
+Block 14‘s Average loss: 1.18993, Aggregation loss: 1.18996
+
+oaast_sft
+Global training Round: 7, block 15
+Client for current block: [15, 47]
+Client loss for current block: [1.1898530721664429, 1.1898430585861206]
+Block 15‘s Average loss: 1.18985, Aggregation loss: 1.18985
+
+oaast_sft
+Global training Round: 7, block 16
+Client for current block: [16, 48]
+Client loss for current block: [1.1898151636123657, 1.1899418830871582]
+Block 16‘s Average loss: 1.18988, Aggregation loss: 1.1899
+
+oaast_sft
+Global training Round: 7, block 17
+Client for current block: [17, 49]
+Client loss for current block: [1.1898294687271118, 1.1898618936538696]
+Block 17‘s Average loss: 1.18985, Aggregation loss: 1.18992
+
+oaast_sft
+Global training Round: 7, block 18
+Client for current block: [18, 50]
+Client loss for current block: [1.1898601055145264, 1.189704179763794]
+Block 18‘s Average loss: 1.18978, Aggregation loss: 1.18982
+
+oaast_sft
+Global training Round: 7, block 19
+Client for current block: [19, 51]
+Client loss for current block: [1.1897320747375488, 1.1898154020309448]
+Block 19‘s Average loss: 1.18977, Aggregation loss: 1.18971
+
+oaast_sft
+Global training Round: 7, block 20
+Client for current block: [20, 52]
+Client loss for current block: [1.1897348165512085, 1.1897612810134888]
+Block 20‘s Average loss: 1.18975, Aggregation loss: 1.18973
+
+oaast_sft
+Global training Round: 7, block 21
+Client for current block: [21, 53]
+Client loss for current block: [1.1896648406982422, 1.189740777015686]
+Block 21‘s Average loss: 1.1897, Aggregation loss: 1.18971
+
+oaast_sft
+Global training Round: 7, block 22
+Client for current block: [22, 54]
+Client loss for current block: [1.1898058652877808, 1.1897906064987183]
+Block 22‘s Average loss: 1.1898, Aggregation loss: 1.18982
+
+oaast_sft
+Global training Round: 7, block 23
+Client for current block: [23, 55]
+Client loss for current block: [1.1897436380386353, 1.1897212266921997]
+Block 23‘s Average loss: 1.18973, Aggregation loss: 1.18973
+
+oaast_sft
+Global training Round: 7, block 24
+Client for current block: [24, 56]
+Client loss for current block: [1.189672589302063, 1.1897116899490356]
+Block 24‘s Average loss: 1.18969, Aggregation loss: 1.18981
+
+oaast_sft
+Global training Round: 7, block 25
+Client for current block: [25, 57]
+Client loss for current block: [1.1897343397140503, 1.189738392829895]
+Block 25‘s Average loss: 1.18974, Aggregation loss: 1.18975
+
+oaast_sft
+Global training Round: 7, block 26
+Client for current block: [26, 58]
+Client loss for current block: [1.1897096633911133, 1.189664363861084]
+Block 26‘s Average loss: 1.18969, Aggregation loss: 1.18974
+
+oaast_sft
+Global training Round: 7, block 27
+Client for current block: [27, 59]
+Client loss for current block: [1.1896071434020996, 1.1896560192108154]
+Block 27‘s Average loss: 1.18963, Aggregation loss: 1.18973
+
+oaast_sft
+Global training Round: 7, block 28
+Client for current block: [28, 60]
+Client loss for current block: [1.189550757408142, 1.1896371841430664]
+Block 28‘s Average loss: 1.18959, Aggregation loss: 1.18962
+
+oaast_sft
+Global training Round: 7, block 29
+Client for current block: [29, 61]
+Client loss for current block: [1.1895192861557007, 1.1895391941070557]
+Block 29‘s Average loss: 1.18953, Aggregation loss: 1.18953
+
+oaast_sft
+Global training Round: 7, block 30
+Client for current block: [30, 62]
+Client loss for current block: [1.1893634796142578, 1.189560055732727]
+Block 30‘s Average loss: 1.18946, Aggregation loss: 1.18953
+
+64clients, round7, agg, round_time: 13871.933913707733
+
+oaast_sft
+Global training Round: 7, block 31
+Client for current block: [31, 63]
+Client loss for current block: [1.18944251537323, 1.1895285844802856]
+Block 31‘s Average loss: 1.18949, Aggregation loss: 1.18953
+
+oaast_sft
+Global training Round: 8, block 0
+Client for current block: [0, 32]
+Client loss for current block: [1.1892608404159546, 1.189342737197876]
+Block 0‘s Average loss: 1.1893, Aggregation loss: 1.1894
+
+oaast_sft
+Global training Round: 8, block 1
+Client for current block: [1, 33]
+Client loss for current block: [1.189253330230713, 1.1894118785858154]
+Block 1‘s Average loss: 1.18933, Aggregation loss: 1.18936
+
+oaast_sft
+Global training Round: 8, block 2
+Client for current block: [2, 34]
+Client loss for current block: [1.1890690326690674, 1.1891952753067017]
+Block 2‘s Average loss: 1.18913, Aggregation loss: 1.18917
+
+oaast_sft
+Global training Round: 8, block 3
+Client for current block: [3, 35]
+Client loss for current block: [1.1892660856246948, 1.189141869544983]
+Block 3‘s Average loss: 1.1892, Aggregation loss: 1.18916
+
+oaast_sft
+Global training Round: 8, block 4
+Client for current block: [4, 36]
+Client loss for current block: [1.1889370679855347, 1.1891018152236938]
+Block 4‘s Average loss: 1.18902, Aggregation loss: 1.18908
+
+oaast_sft
+Global training Round: 8, block 5
+Client for current block: [5, 37]
+Client loss for current block: [1.1887751817703247, 1.1890413761138916]
+Block 5‘s Average loss: 1.18891, Aggregation loss: 1.18902
+
+oaast_sft
+Global training Round: 8, block 6
+Client for current block: [6, 38]
+Client loss for current block: [1.1885948181152344, 1.189019799232483]
+Block 6‘s Average loss: 1.18881, Aggregation loss: 1.18893
+
+oaast_sft
+Global training Round: 8, block 7
+Client for current block: [7, 39]
+Client loss for current block: [1.188484787940979, 1.1888171434402466]
+Block 7‘s Average loss: 1.18865, Aggregation loss: 1.18873
+
+oaast_sft
+Global training Round: 8, block 8
+Client for current block: [8, 40]
+Client loss for current block: [1.1886396408081055, 1.188747525215149]
+Block 8‘s Average loss: 1.18869, Aggregation loss: 1.18875
+
+oaast_sft
+Global training Round: 8, block 9
+Client for current block: [9, 41]
+Client loss for current block: [1.1888301372528076, 1.1887158155441284]
+Block 9‘s Average loss: 1.18877, Aggregation loss: 1.18858
+
+oaast_sft
+Global training Round: 8, block 10
+Client for current block: [10, 42]
+Client loss for current block: [1.1885043382644653, 1.1886372566223145]
+Block 10‘s Average loss: 1.18857, Aggregation loss: 1.18862
+
+oaast_sft
+Global training Round: 8, block 11
+Client for current block: [11, 43]
+Client loss for current block: [1.188251256942749, 1.1886003017425537]
+Block 11‘s Average loss: 1.18843, Aggregation loss: 1.18857
+
+oaast_sft
+Global training Round: 8, block 12
+Client for current block: [12, 44]
+Client loss for current block: [1.1883796453475952, 1.1882423162460327]
+Block 12‘s Average loss: 1.18831, Aggregation loss: 1.18832
+
+oaast_sft
+Global training Round: 8, block 13
+Client for current block: [13, 45]
+Client loss for current block: [1.188287615776062, 1.1884084939956665]
+Block 13‘s Average loss: 1.18835, Aggregation loss: 1.18835
+
+oaast_sft
+Global training Round: 8, block 14
+Client for current block: [14, 46]
+Client loss for current block: [1.1884123086929321, 1.1883307695388794]
+Block 14‘s Average loss: 1.18837, Aggregation loss: 1.18842
+
+oaast_sft
+Global training Round: 8, block 15
+Client for current block: [15, 47]
+Client loss for current block: [1.1884092092514038, 1.1883913278579712]
+Block 15‘s Average loss: 1.1884, Aggregation loss: 1.18832
+
+oaast_sft
+Global training Round: 8, block 16
+Client for current block: [16, 48]
+Client loss for current block: [1.1882108449935913, 1.1882966756820679]
+Block 16‘s Average loss: 1.18825, Aggregation loss: 1.18833
+
+oaast_sft
+Global training Round: 8, block 17
+Client for current block: [17, 49]
+Client loss for current block: [1.18833589553833, 1.188326120376587]
+Block 17‘s Average loss: 1.18833, Aggregation loss: 1.18833
+
+oaast_sft
+Global training Round: 8, block 18
+Client for current block: [18, 50]
+Client loss for current block: [1.1881611347198486, 1.188223123550415]
+Block 18‘s Average loss: 1.18819, Aggregation loss: 1.18824
+
+oaast_sft
+Global training Round: 8, block 19
+Client for current block: [19, 51]
+Client loss for current block: [1.1882444620132446, 1.1882888078689575]
+Block 19‘s Average loss: 1.18827, Aggregation loss: 1.18824
+
+oaast_sft
+Global training Round: 8, block 20
+Client for current block: [20, 52]
+Client loss for current block: [1.1882045269012451, 1.1883559226989746]
+Block 20‘s Average loss: 1.18828, Aggregation loss: 1.18827
+
+oaast_sft
+Global training Round: 8, block 21
+Client for current block: [21, 53]
+Client loss for current block: [1.1882615089416504, 1.1883080005645752]
+Block 21‘s Average loss: 1.18828, Aggregation loss: 1.18816
+
+oaast_sft
+Global training Round: 8, block 22
+Client for current block: [22, 54]
+Client loss for current block: [1.1881877183914185, 1.1881718635559082]
+Block 22‘s Average loss: 1.18818, Aggregation loss: 1.18829
+
+oaast_sft
+Global training Round: 8, block 23
+Client for current block: [23, 55]
+Client loss for current block: [1.188141942024231, 1.1881523132324219]
+Block 23‘s Average loss: 1.18815, Aggregation loss: 1.18817
+
+oaast_sft
+Global training Round: 8, block 24
+Client for current block: [24, 56]
+Client loss for current block: [1.1880871057510376, 1.1882059574127197]
+Block 24‘s Average loss: 1.18815, Aggregation loss: 1.18816
+
+oaast_sft
+Global training Round: 8, block 25
+Client for current block: [25, 57]
+Client loss for current block: [1.1881197690963745, 1.1881282329559326]
+Block 25‘s Average loss: 1.18812, Aggregation loss: 1.18817
+
+oaast_sft
+Global training Round: 8, block 26
+Client for current block: [26, 58]
+Client loss for current block: [1.188114047050476, 1.1880338191986084]
+Block 26‘s Average loss: 1.18807, Aggregation loss: 1.18818
+
+oaast_sft
+Global training Round: 8, block 27
+Client for current block: [27, 59]
+Client loss for current block: [1.1880335807800293, 1.1881457567214966]
+Block 27‘s Average loss: 1.18809, Aggregation loss: 1.18809
+
+oaast_sft
+Global training Round: 8, block 28
+Client for current block: [28, 60]
+Client loss for current block: [1.1879740953445435, 1.1880840063095093]
+Block 28‘s Average loss: 1.18803, Aggregation loss: 1.18803
+
+oaast_sft
+Global training Round: 8, block 29
+Client for current block: [29, 61]
+Client loss for current block: [1.1879438161849976, 1.1880863904953003]
+Block 29‘s Average loss: 1.18802, Aggregation loss: 1.18797
+
+oaast_sft
+Global training Round: 8, block 30
+Client for current block: [30, 62]
+Client loss for current block: [1.1879137754440308, 1.1880091428756714]
+Block 30‘s Average loss: 1.18796, Aggregation loss: 1.18793
+
+64clients, round8, agg, round_time: 13867.208216667175
+
+oaast_sft
+Global training Round: 8, block 31
+Client for current block: [31, 63]
+Client loss for current block: [1.1879521608352661, 1.1877624988555908]
+Block 31‘s Average loss: 1.18786, Aggregation loss: 1.18786
+
+oaast_sft
+Global training Round: 9, block 0
+Client for current block: [0, 32]
+Client loss for current block: [1.188044786453247, 1.1878607273101807]
+Block 0‘s Average loss: 1.18795, Aggregation loss: 1.18791
+
+oaast_sft
+Global training Round: 9, block 1
+Client for current block: [1, 33]
+Client loss for current block: [1.1878635883331299, 1.1879116296768188]
+Block 1‘s Average loss: 1.18789, Aggregation loss: 1.18784
+
+oaast_sft
+Global training Round: 9, block 2
+Client for current block: [2, 34]
+Client loss for current block: [1.1876083612442017, 1.1878613233566284]
+Block 2‘s Average loss: 1.18773, Aggregation loss: 1.18766
+
+oaast_sft
+Global training Round: 9, block 3
+Client for current block: [3, 35]
+Client loss for current block: [1.1878641843795776, 1.1877998113632202]
+Block 3‘s Average loss: 1.18783, Aggregation loss: 1.18771
+
+oaast_sft
+Global training Round: 9, block 4
+Client for current block: [4, 36]
+Client loss for current block: [1.187646508216858, 1.18761146068573]
+Block 4‘s Average loss: 1.18763, Aggregation loss: 1.18763
+
+oaast_sft
+Global training Round: 9, block 5
+Client for current block: [5, 37]
+Client loss for current block: [1.1873581409454346, 1.1875202655792236]
+Block 5‘s Average loss: 1.18744, Aggregation loss: 1.18752
+
+oaast_sft
+Global training Round: 9, block 6
+Client for current block: [6, 38]
+Client loss for current block: [1.1872822046279907, 1.1875629425048828]
+Block 6‘s Average loss: 1.18742, Aggregation loss: 1.18746
+
+oaast_sft
+Global training Round: 9, block 7
+Client for current block: [7, 39]
+Client loss for current block: [1.1870261430740356, 1.1874797344207764]
+Block 7‘s Average loss: 1.18725, Aggregation loss: 1.18737
+
+oaast_sft
+Global training Round: 9, block 8
+Client for current block: [8, 40]
+Client loss for current block: [1.187280535697937, 1.1873620748519897]
+Block 8‘s Average loss: 1.18732, Aggregation loss: 1.18731
+
+oaast_sft
+Global training Round: 9, block 9
+Client for current block: [9, 41]
+Client loss for current block: [1.187438726425171, 1.1873996257781982]
+Block 9‘s Average loss: 1.18742, Aggregation loss: 1.18731
+
+oaast_sft
+Global training Round: 9, block 10
+Client for current block: [10, 42]
+Client loss for current block: [1.187354326248169, 1.1873477697372437]
+Block 10‘s Average loss: 1.18735, Aggregation loss: 1.18731
+
+oaast_sft
+Global training Round: 9, block 11
+Client for current block: [11, 43]
+Client loss for current block: [1.1870266199111938, 1.1872175931930542]
+Block 11‘s Average loss: 1.18712, Aggregation loss: 1.18716
+
+oaast_sft
+Global training Round: 9, block 12
+Client for current block: [12, 44]
+Client loss for current block: [1.187109112739563, 1.1871577501296997]
+Block 12‘s Average loss: 1.18713, Aggregation loss: 1.18714
+
+oaast_sft
+Global training Round: 9, block 13
+Client for current block: [13, 45]
+Client loss for current block: [1.1870774030685425, 1.1870976686477661]
+Block 13‘s Average loss: 1.18709, Aggregation loss: 1.18717
+
+oaast_sft
+Global training Round: 9, block 14
+Client for current block: [14, 46]
+Client loss for current block: [1.1871116161346436, 1.1870779991149902]
+Block 14‘s Average loss: 1.18709, Aggregation loss: 1.18709
+
+oaast_sft
+Global training Round: 9, block 15
+Client for current block: [15, 47]
+Client loss for current block: [1.1870063543319702, 1.1871070861816406]
+Block 15‘s Average loss: 1.18706, Aggregation loss: 1.18708
+
+oaast_sft
+Global training Round: 9, block 16
+Client for current block: [16, 48]
+Client loss for current block: [1.1871036291122437, 1.1871567964553833]
+Block 16‘s Average loss: 1.18713, Aggregation loss: 1.18706
+
+oaast_sft
+Global training Round: 9, block 17
+Client for current block: [17, 49]
+Client loss for current block: [1.1870006322860718, 1.1871013641357422]
+Block 17‘s Average loss: 1.18705, Aggregation loss: 1.18712
+
+oaast_sft
+Global training Round: 9, block 18
+Client for current block: [18, 50]
+Client loss for current block: [1.1870300769805908, 1.1870276927947998]
+Block 18‘s Average loss: 1.18703, Aggregation loss: 1.18703
+
+oaast_sft
+Global training Round: 9, block 19
+Client for current block: [19, 51]
+Client loss for current block: [1.1870347261428833, 1.1870300769805908]
+Block 19‘s Average loss: 1.18703, Aggregation loss: 1.18709
+
+oaast_sft
+Global training Round: 9, block 20
+Client for current block: [20, 52]
+Client loss for current block: [1.1869256496429443, 1.1869813203811646]
+Block 20‘s Average loss: 1.18695, Aggregation loss: 1.187
+
+oaast_sft
+Global training Round: 9, block 21
+Client for current block: [21, 53]
+Client loss for current block: [1.1869685649871826, 1.1869844198226929]
+Block 21‘s Average loss: 1.18698, Aggregation loss: 1.18694
+
+oaast_sft
+Global training Round: 9, block 22
+Client for current block: [22, 54]
+Client loss for current block: [1.1869465112686157, 1.1869895458221436]
+Block 22‘s Average loss: 1.18697, Aggregation loss: 1.187
+
+oaast_sft
+Global training Round: 9, block 23
+Client for current block: [23, 55]
+Client loss for current block: [1.1869641542434692, 1.1869956254959106]
+Block 23‘s Average loss: 1.18698, Aggregation loss: 1.18705
+
+oaast_sft
+Global training Round: 9, block 24
+Client for current block: [24, 56]
+Client loss for current block: [1.1869289875030518, 1.1869709491729736]
+Block 24‘s Average loss: 1.18695, Aggregation loss: 1.18711
+
+oaast_sft
+Global training Round: 9, block 25
+Client for current block: [25, 57]
+Client loss for current block: [1.1870170831680298, 1.1870321035385132]
+Block 25‘s Average loss: 1.18702, Aggregation loss: 1.18698
+
+oaast_sft
+Global training Round: 9, block 26
+Client for current block: [26, 58]
+Client loss for current block: [1.1868786811828613, 1.1869385242462158]
+Block 26‘s Average loss: 1.18691, Aggregation loss: 1.18694
+
+oaast_sft
+Global training Round: 9, block 27
+Client for current block: [27, 59]
+Client loss for current block: [1.186905026435852, 1.1869280338287354]
+Block 27‘s Average loss: 1.18692, Aggregation loss: 1.18692
+
+oaast_sft
+Global training Round: 9, block 28
+Client for current block: [28, 60]
+Client loss for current block: [1.1868952512741089, 1.1869122982025146]
+Block 28‘s Average loss: 1.1869, Aggregation loss: 1.18693
+
+oaast_sft
+Global training Round: 9, block 29
+Client for current block: [29, 61]
+Client loss for current block: [1.186761498451233, 1.186859130859375]
+Block 29‘s Average loss: 1.18681, Aggregation loss: 1.18687
+
+oaast_sft
+Global training Round: 9, block 30
+Client for current block: [30, 62]
+Client loss for current block: [1.1867761611938477, 1.1869062185287476]
+Block 30‘s Average loss: 1.18684, Aggregation loss: 1.18685
+
+64clients, round9, agg, round_time: 13865.088943719864
+
+oaast_sft
+Global training Round: 9, block 31
+Client for current block: [31, 63]
+Client loss for current block: [1.1869183778762817, 1.1866366863250732]
+Block 31‘s Average loss: 1.18678, Aggregation loss: 1.1868
+
+oaast_sft
+Global training Round: 10, block 0
+Client for current block: [0, 32]
+Client loss for current block: [1.1867549419403076, 1.1867364645004272]
+Block 0‘s Average loss: 1.18675, Aggregation loss: 1.18666
+
+oaast_sft
+Global training Round: 10, block 1
+Client for current block: [1, 33]
+Client loss for current block: [1.186751127243042, 1.1867485046386719]
+Block 1‘s Average loss: 1.18675, Aggregation loss: 1.18673
+
+oaast_sft
+Global training Round: 10, block 2
+Client for current block: [2, 34]
+Client loss for current block: [1.186476707458496, 1.1865721940994263]
+Block 2‘s Average loss: 1.18652, Aggregation loss: 1.18665
+
+oaast_sft
+Global training Round: 10, block 3
+Client for current block: [3, 35]
+Client loss for current block: [1.1867761611938477, 1.1866413354873657]
+Block 3‘s Average loss: 1.18671, Aggregation loss: 1.18667
+
+oaast_sft
+Global training Round: 10, block 4
+Client for current block: [4, 36]
+Client loss for current block: [1.1865413188934326, 1.1865859031677246]
+Block 4‘s Average loss: 1.18656, Aggregation loss: 1.1866
+
+oaast_sft
+Global training Round: 10, block 5
+Client for current block: [5, 37]
+Client loss for current block: [1.1862643957138062, 1.1865715980529785]
+Block 5‘s Average loss: 1.18642, Aggregation loss: 1.18644
+
+oaast_sft
+Global training Round: 10, block 6
+Client for current block: [6, 38]
+Client loss for current block: [1.1863183975219727, 1.1865804195404053]
+Block 6‘s Average loss: 1.18645, Aggregation loss: 1.18643
+
+oaast_sft
+Global training Round: 10, block 7
+Client for current block: [7, 39]
+Client loss for current block: [1.186160683631897, 1.1862709522247314]
+Block 7‘s Average loss: 1.18622, Aggregation loss: 1.18626
+
+oaast_sft
+Global training Round: 10, block 8
+Client for current block: [8, 40]
+Client loss for current block: [1.1863865852355957, 1.1862746477127075]
+Block 8‘s Average loss: 1.18633, Aggregation loss: 1.18642
+
+oaast_sft
+Global training Round: 10, block 9
+Client for current block: [9, 41]
+Client loss for current block: [1.1863330602645874, 1.1864113807678223]
+Block 9‘s Average loss: 1.18637, Aggregation loss: 1.18615
+
+oaast_sft
+Global training Round: 10, block 10
+Client for current block: [10, 42]
+Client loss for current block: [1.1862746477127075, 1.1861369609832764]
+Block 10‘s Average loss: 1.18621, Aggregation loss: 1.18623
+
+oaast_sft
+Global training Round: 10, block 11
+Client for current block: [11, 43]
+Client loss for current block: [1.186016321182251, 1.1862229108810425]
+Block 11‘s Average loss: 1.18612, Aggregation loss: 1.18624
+
+oaast_sft
+Global training Round: 10, block 12
+Client for current block: [12, 44]
+Client loss for current block: [1.1860512495040894, 1.1862274408340454]
+Block 12‘s Average loss: 1.18614, Aggregation loss: 1.18613
+
+oaast_sft
+Global training Round: 10, block 13
+Client for current block: [13, 45]
+Client loss for current block: [1.1860064268112183, 1.186200737953186]
+Block 13‘s Average loss: 1.1861, Aggregation loss: 1.18605
+
+oaast_sft
+Global training Round: 10, block 14
+Client for current block: [14, 46]
+Client loss for current block: [1.1861052513122559, 1.1860570907592773]
+Block 14‘s Average loss: 1.18608, Aggregation loss: 1.18614
+
+oaast_sft
+Global training Round: 10, block 15
+Client for current block: [15, 47]
+Client loss for current block: [1.186063289642334, 1.186119556427002]
+Block 15‘s Average loss: 1.18609, Aggregation loss: 1.18606
+
+oaast_sft
+Global training Round: 10, block 16
+Client for current block: [16, 48]
+Client loss for current block: [1.1859477758407593, 1.1860620975494385]
+Block 16‘s Average loss: 1.186, Aggregation loss: 1.186
+
+oaast_sft
+Global training Round: 10, block 17
+Client for current block: [17, 49]
+Client loss for current block: [1.1859596967697144, 1.186130404472351]
+Block 17‘s Average loss: 1.18605, Aggregation loss: 1.18608
+
+oaast_sft
+Global training Round: 10, block 18
+Client for current block: [18, 50]
+Client loss for current block: [1.1860610246658325, 1.186071515083313]
+Block 18‘s Average loss: 1.18607, Aggregation loss: 1.18598
+
+oaast_sft
+Global training Round: 10, block 19
+Client for current block: [19, 51]
+Client loss for current block: [1.186051845550537, 1.186026692390442]
+Block 19‘s Average loss: 1.18604, Aggregation loss: 1.18604
+
+oaast_sft
+Global training Round: 10, block 20
+Client for current block: [20, 52]
+Client loss for current block: [1.1859886646270752, 1.1861525774002075]
+Block 20‘s Average loss: 1.18607, Aggregation loss: 1.18604
+
+oaast_sft
+Global training Round: 10, block 21
+Client for current block: [21, 53]
+Client loss for current block: [1.1858774423599243, 1.1859673261642456]
+Block 21‘s Average loss: 1.18592, Aggregation loss: 1.18609
+
+oaast_sft
+Global training Round: 10, block 22
+Client for current block: [22, 54]
+Client loss for current block: [1.1859571933746338, 1.186059832572937]
+Block 22‘s Average loss: 1.18601, Aggregation loss: 1.18599
+
+oaast_sft
+Global training Round: 10, block 23
+Client for current block: [23, 55]
+Client loss for current block: [1.1859768629074097, 1.18601393699646]
+Block 23‘s Average loss: 1.186, Aggregation loss: 1.18599
+
+oaast_sft
+Global training Round: 10, block 24
+Client for current block: [24, 56]
+Client loss for current block: [1.1858947277069092, 1.1859757900238037]
+Block 24‘s Average loss: 1.18594, Aggregation loss: 1.18601
+
+oaast_sft
+Global training Round: 10, block 25
+Client for current block: [25, 57]
+Client loss for current block: [1.185921311378479, 1.1860698461532593]
+Block 25‘s Average loss: 1.186, Aggregation loss: 1.18598
+
+oaast_sft
+Global training Round: 10, block 26
+Client for current block: [26, 58]
+Client loss for current block: [1.1858298778533936, 1.1859524250030518]
+Block 26‘s Average loss: 1.18589, Aggregation loss: 1.186
+
+oaast_sft
+Global training Round: 10, block 27
+Client for current block: [27, 59]
+Client loss for current block: [1.1858853101730347, 1.1859431266784668]
+Block 27‘s Average loss: 1.18591, Aggregation loss: 1.18587
+
+oaast_sft
+Global training Round: 10, block 28
+Client for current block: [28, 60]
+Client loss for current block: [1.1858654022216797, 1.1858646869659424]
+Block 28‘s Average loss: 1.18587, Aggregation loss: 1.18588
+
+oaast_sft
+Global training Round: 10, block 29
+Client for current block: [29, 61]
+Client loss for current block: [1.1857763528823853, 1.1858137845993042]
+Block 29‘s Average loss: 1.1858, Aggregation loss: 1.1858
+
+oaast_sft
+Global training Round: 10, block 30
+Client for current block: [30, 62]
+Client loss for current block: [1.1858747005462646, 1.1858646869659424]
+Block 30‘s Average loss: 1.18587, Aggregation loss: 1.18581
+
+64clients, round10, agg, round_time: 13962.493700027466
+
+oaast_sft
+Global training Round: 10, block 31
+Client for current block: [31, 63]
+Client loss for current block: [1.1859263181686401, 1.1858134269714355]
+Block 31‘s Average loss: 1.18587, Aggregation loss: 1.18585
+
+oaast_sft
+Global training Round: 11, block 0
+Client for current block: [0, 32]
+Client loss for current block: [1.1860207319259644, 1.1858450174331665]
+Block 0‘s Average loss: 1.18593, Aggregation loss: 1.18593
+
+oaast_sft
+Global training Round: 11, block 1
+Client for current block: [1, 33]
+Client loss for current block: [1.1860796213150024, 1.1860179901123047]
+Block 1‘s Average loss: 1.18605, Aggregation loss: 1.186
+
+oaast_sft
+Global training Round: 11, block 2
+Client for current block: [2, 34]
+Client loss for current block: [1.185974359512329, 1.1859081983566284]
+Block 2‘s Average loss: 1.18594, Aggregation loss: 1.18595
+
+oaast_sft
+Global training Round: 11, block 3
+Client for current block: [3, 35]
+Client loss for current block: [1.1860250234603882, 1.1858881711959839]
+Block 3‘s Average loss: 1.18596, Aggregation loss: 1.18603
+
+oaast_sft
+Global training Round: 11, block 4
+Client for current block: [4, 36]
+Client loss for current block: [1.1859513521194458, 1.1857877969741821]
+Block 4‘s Average loss: 1.18587, Aggregation loss: 1.18589
+
+oaast_sft
+Global training Round: 11, block 5
+Client for current block: [5, 37]
+Client loss for current block: [1.1856098175048828, 1.1857507228851318]
+Block 5‘s Average loss: 1.18568, Aggregation loss: 1.18567
+
+oaast_sft
+Global training Round: 11, block 6
+Client for current block: [6, 38]
+Client loss for current block: [1.1856147050857544, 1.1856189966201782]
+Block 6‘s Average loss: 1.18562, Aggregation loss: 1.18553
+
+oaast_sft
+Global training Round: 11, block 7
+Client for current block: [7, 39]
+Client loss for current block: [1.1855411529541016, 1.185608983039856]
+Block 7‘s Average loss: 1.18558, Aggregation loss: 1.18569
+
+oaast_sft
+Global training Round: 11, block 8
+Client for current block: [8, 40]
+Client loss for current block: [1.185666561126709, 1.1855344772338867]
+Block 8‘s Average loss: 1.1856, Aggregation loss: 1.18564
+

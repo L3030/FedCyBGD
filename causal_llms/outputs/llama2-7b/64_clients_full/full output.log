@@ -1,0 +1,576 @@
+./outputs/llama2-7b/64_clients full/
+round 0, client0, loss1.0698
+
+./outputs/llama2-7b/64_clients full/
+round 0, client1, loss1.04313
+
+./outputs/llama2-7b/64_clients full/
+round 0, client2, loss1.02565
+
+./outputs/llama2-7b/64_clients full/
+round 0, client3, loss1.01401
+
+./outputs/llama2-7b/64_clients full/
+round 0, client4, loss1.00585
+
+./outputs/llama2-7b/64_clients full/
+round 0, client5, loss0.99996
+
+./outputs/llama2-7b/64_clients full/
+round 0, client6, loss0.99464
+
+./outputs/llama2-7b/64_clients full/
+round 0, client7, loss0.9906
+
+./outputs/llama2-7b/64_clients full/
+round 0, client8, loss0.9875
+
+./outputs/llama2-7b/64_clients full/
+round 0, client9, loss0.98471
+
+./outputs/llama2-7b/64_clients full/
+round 0, client10, loss0.98247
+
+./outputs/llama2-7b/64_clients full/
+round 0, client11, loss0.98044
+
+./outputs/llama2-7b/64_clients full/
+round 0, client12, loss0.97868
+
+./outputs/llama2-7b/64_clients full/
+round 0, client13, loss0.97703
+
+./outputs/llama2-7b/64_clients full/
+round 0, client14, loss0.97589
+
+./outputs/llama2-7b/64_clients full/
+round 0, client15, loss0.97442
+
+./outputs/llama2-7b/64_clients full/
+round 0, client16, loss0.97309
+
+./outputs/llama2-7b/64_clients full/
+round 0, client17, loss0.97216
+
+./outputs/llama2-7b/64_clients full/
+round 0, client18, loss0.97097
+
+./outputs/llama2-7b/64_clients full/
+round 0, client19, loss0.97005
+
+./outputs/llama2-7b/64_clients full/
+round 0, client20, loss0.96889
+
+./outputs/llama2-7b/64_clients full/
+round 0, client21, loss0.96804
+
+./outputs/llama2-7b/64_clients full/
+round 0, client22, loss0.96742
+
+./outputs/llama2-7b/64_clients full/
+round 0, client23, loss0.96671
+
+./outputs/llama2-7b/64_clients full/
+round 0, client24, loss0.96574
+
+./outputs/llama2-7b/64_clients full/
+round 0, client25, loss0.96506
+
+./outputs/llama2-7b/64_clients full/
+round 0, client26, loss0.96441
+
+./outputs/llama2-7b/64_clients full/
+round 0, client27, loss0.96332
+
+./outputs/llama2-7b/64_clients full/
+round 0, client28, loss0.96299
+
+./outputs/llama2-7b/64_clients full/
+round 0, client29, loss0.96213
+
+./outputs/llama2-7b/64_clients full/
+round 0, client30, loss0.96177
+
+./outputs/llama2-7b/64_clients full/
+round 0, client31, loss0.96098
+
+./outputs/llama2-7b/64_clients full/
+round 0, client32, loss0.96055
+
+./outputs/llama2-7b/64_clients full/
+round 0, client33, loss0.95981
+
+./outputs/llama2-7b/64_clients full/
+round 0, client34, loss0.95939
+
+./outputs/llama2-7b/64_clients full/
+round 0, client35, loss0.95892
+
+./outputs/llama2-7b/64_clients full/
+round 0, client36, loss0.95844
+
+./outputs/llama2-7b/64_clients full/
+round 0, client37, loss0.95809
+
+./outputs/llama2-7b/64_clients full/
+round 0, client38, loss0.95768
+
+./outputs/llama2-7b/64_clients full/
+round 0, client39, loss0.95709
+
+./outputs/llama2-7b/64_clients full/
+round 0, client40, loss0.95676
+
+./outputs/llama2-7b/64_clients full/
+round 0, client41, loss0.95623
+
+./outputs/llama2-7b/64_clients full/
+round 0, client42, loss0.95579
+
+./outputs/llama2-7b/64_clients full/
+round 0, client43, loss0.95537
+
+./outputs/llama2-7b/64_clients full/
+round 0, client44, loss0.95504
+
+./outputs/llama2-7b/64_clients full/
+round 0, client45, loss0.95436
+
+./outputs/llama2-7b/64_clients full/
+round 0, client46, loss0.95419
+
+./outputs/llama2-7b/64_clients full/
+round 0, client47, loss0.95394
+
+./outputs/llama2-7b/64_clients full/
+round 0, client48, loss0.95334
+
+./outputs/llama2-7b/64_clients full/
+round 0, client49, loss0.95309
+
+./outputs/llama2-7b/64_clients full/
+round 0, client50, loss0.95259
+
+./outputs/llama2-7b/64_clients full/
+round 0, client51, loss0.95233
+
+./outputs/llama2-7b/64_clients full/
+round 0, client52, loss0.95179
+
+./outputs/llama2-7b/64_clients full/
+round 0, client53, loss0.9516
+
+./outputs/llama2-7b/64_clients full/
+round 0, client54, loss0.9512
+
+./outputs/llama2-7b/64_clients full/
+round 0, client55, loss0.95068
+
+./outputs/llama2-7b/64_clients full/
+round 0, client56, loss0.95033
+
+./outputs/llama2-7b/64_clients full/
+round 0, client57, loss0.94994
+
+./outputs/llama2-7b/64_clients full/
+round 0, client58, loss0.94975
+
+./outputs/llama2-7b/64_clients full/
+round 0, client59, loss0.94941
+
+./outputs/llama2-7b/64_clients full/
+round 0, client60, loss0.94894
+
+./outputs/llama2-7b/64_clients full/
+round 0, client61, loss0.94861
+
+./outputs/llama2-7b/64_clients full/
+round 0, client62, loss0.94833
+
+./outputs/llama2-7b/64_clients full/
+round 0, client63, loss0.94781
+
+./outputs/llama2-7b/64_clients full/
+round 1, client0, loss0.94796
+
+./outputs/llama2-7b/64_clients full/
+round 1, client1, loss0.94744
+
+./outputs/llama2-7b/64_clients full/
+round 1, client2, loss0.94689
+
+./outputs/llama2-7b/64_clients full/
+round 1, client3, loss0.94668
+
+./outputs/llama2-7b/64_clients full/
+round 1, client4, loss0.94658
+
+./outputs/llama2-7b/64_clients full/
+round 1, client5, loss0.94622
+
+./outputs/llama2-7b/64_clients full/
+round 1, client6, loss0.94592
+
+./outputs/llama2-7b/64_clients full/
+round 1, client7, loss0.94556
+
+./outputs/llama2-7b/64_clients full/
+round 1, client8, loss0.94541
+
+./outputs/llama2-7b/64_clients full/
+round 1, client9, loss0.94494
+
+./outputs/llama2-7b/64_clients full/
+round 1, client10, loss0.94467
+
+./outputs/llama2-7b/64_clients full/
+round 1, client11, loss0.94445
+
+./outputs/llama2-7b/64_clients full/
+round 1, client12, loss0.94393
+
+./outputs/llama2-7b/64_clients full/
+round 1, client13, loss0.94383
+
+./outputs/llama2-7b/64_clients full/
+round 1, client14, loss0.94358
+
+./outputs/llama2-7b/64_clients full/
+round 1, client15, loss0.9432
+
+./outputs/llama2-7b/64_clients full/
+round 1, client16, loss0.94299
+
+./outputs/llama2-7b/64_clients full/
+round 1, client17, loss0.94274
+
+./outputs/llama2-7b/64_clients full/
+round 1, client18, loss0.94259
+
+./outputs/llama2-7b/64_clients full/
+round 1, client19, loss0.94236
+
+./outputs/llama2-7b/64_clients full/
+round 1, client20, loss0.94196
+
+./outputs/llama2-7b/64_clients full/
+round 1, client21, loss0.94171
+
+./outputs/llama2-7b/64_clients full/
+round 1, client22, loss0.94164
+
+./outputs/llama2-7b/64_clients full/
+round 1, client23, loss0.94103
+
+./outputs/llama2-7b/64_clients full/
+round 1, client24, loss0.94105
+
+./outputs/llama2-7b/64_clients full/
+round 1, client25, loss0.94065
+
+./outputs/llama2-7b/64_clients full/
+round 1, client26, loss0.9405
+
+./outputs/llama2-7b/64_clients full/
+round 1, client27, loss0.94002
+
+./outputs/llama2-7b/64_clients full/
+round 1, client28, loss0.94002
+
+./outputs/llama2-7b/64_clients full/
+round 1, client29, loss0.93981
+
+./outputs/llama2-7b/64_clients full/
+round 1, client30, loss0.93973
+
+./outputs/llama2-7b/64_clients full/
+round 1, client31, loss0.93918
+
+./outputs/llama2-7b/64_clients full/
+round 1, client32, loss0.93897
+
+./outputs/llama2-7b/64_clients full/
+round 1, client33, loss0.93888
+
+./outputs/llama2-7b/64_clients full/
+round 1, client34, loss0.93883
+
+./outputs/llama2-7b/64_clients full/
+round 1, client35, loss0.93866
+
+./outputs/llama2-7b/64_clients full/
+round 1, client36, loss0.93843
+
+./outputs/llama2-7b/64_clients full/
+round 1, client37, loss0.9384
+
+./outputs/llama2-7b/64_clients full/
+round 1, client38, loss0.93807
+
+./outputs/llama2-7b/64_clients full/
+round 1, client39, loss0.93794
+
+./outputs/llama2-7b/64_clients full/
+round 1, client40, loss0.93784
+
+./outputs/llama2-7b/64_clients full/
+round 1, client41, loss0.93743
+
+./outputs/llama2-7b/64_clients full/
+round 1, client42, loss0.93736
+
+./outputs/llama2-7b/64_clients full/
+round 1, client43, loss0.9372
+
+./outputs/llama2-7b/64_clients full/
+round 1, client44, loss0.93681
+
+./outputs/llama2-7b/64_clients full/
+round 1, client45, loss0.9369
+
+./outputs/llama2-7b/64_clients full/
+round 1, client46, loss0.93672
+
+./outputs/llama2-7b/64_clients full/
+round 1, client47, loss0.93686
+
+./outputs/llama2-7b/64_clients full/
+round 1, client48, loss0.93648
+
+./outputs/llama2-7b/64_clients full/
+round 1, client49, loss0.93649
+
+./outputs/llama2-7b/64_clients full/
+round 1, client50, loss0.93649
+
+./outputs/llama2-7b/64_clients full/
+round 1, client51, loss0.93611
+
+./outputs/llama2-7b/64_clients full/
+round 1, client52, loss0.93594
+
+./outputs/llama2-7b/64_clients full/
+round 1, client53, loss0.93589
+
+./outputs/llama2-7b/64_clients full/
+round 1, client54, loss0.93587
+
+./outputs/llama2-7b/64_clients full/
+round 1, client55, loss0.93541
+
+./outputs/llama2-7b/64_clients full/
+round 1, client56, loss0.93547
+
+./outputs/llama2-7b/64_clients full/
+round 1, client57, loss0.93527
+
+./outputs/llama2-7b/64_clients full/
+round 1, client58, loss0.93522
+
+./outputs/llama2-7b/64_clients full/
+round 1, client59, loss0.93523
+
+./outputs/llama2-7b/64_clients full/
+round 1, client60, loss0.93505
+
+./outputs/llama2-7b/64_clients full/
+round 1, client61, loss0.93484
+
+./outputs/llama2-7b/64_clients full/
+round 1, client62, loss0.93477
+
+./outputs/llama2-7b/64_clients full/
+round 1, client63, loss0.93487
+
+./outputs/llama2-7b/64_clients full/
+round 2, client0, loss0.93461
+
+./outputs/llama2-7b/64_clients full/
+round 2, client1, loss0.93426
+
+./outputs/llama2-7b/64_clients full/
+round 2, client2, loss0.93446
+
+./outputs/llama2-7b/64_clients full/
+round 2, client3, loss0.93411
+
+./outputs/llama2-7b/64_clients full/
+round 2, client4, loss0.9343
+
+./outputs/llama2-7b/64_clients full/
+round 2, client5, loss0.93388
+
+./outputs/llama2-7b/64_clients full/
+round 2, client6, loss0.93398
+
+./outputs/llama2-7b/64_clients full/
+round 2, client7, loss0.9336
+
+./outputs/llama2-7b/64_clients full/
+round 2, client8, loss0.93362
+
+./outputs/llama2-7b/64_clients full/
+round 2, client9, loss0.93355
+
+./outputs/llama2-7b/64_clients full/
+round 2, client10, loss0.93352
+
+./outputs/llama2-7b/64_clients full/
+round 2, client11, loss0.93331
+
+./outputs/llama2-7b/64_clients full/
+round 2, client12, loss0.93341
+
+./outputs/llama2-7b/64_clients full/
+round 2, client13, loss0.93314
+
+./outputs/llama2-7b/64_clients full/
+round 2, client14, loss0.93316
+
+./outputs/llama2-7b/64_clients full/
+round 2, client15, loss0.9331
+
+./outputs/llama2-7b/64_clients full/
+round 2, client16, loss0.93297
+
+./outputs/llama2-7b/64_clients full/
+round 2, client17, loss0.93281
+
+./outputs/llama2-7b/64_clients full/
+round 2, client18, loss0.93278
+
+./outputs/llama2-7b/64_clients full/
+round 2, client19, loss0.93281
+
+./outputs/llama2-7b/64_clients full/
+round 2, client20, loss0.93291
+
+./outputs/llama2-7b/64_clients full/
+round 2, client21, loss0.93284
+
+./outputs/llama2-7b/64_clients full/
+round 2, client22, loss0.93256
+
+./outputs/llama2-7b/64_clients full/
+round 2, client23, loss0.93253
+
+./outputs/llama2-7b/64_clients full/
+round 2, client24, loss0.93259
+
+./outputs/llama2-7b/64_clients full/
+round 2, client25, loss0.93225
+
+./outputs/llama2-7b/64_clients full/
+round 2, client26, loss0.9323
+
+./outputs/llama2-7b/64_clients full/
+round 2, client27, loss0.93221
+
+./outputs/llama2-7b/64_clients full/
+round 2, client28, loss0.93216
+
+./outputs/llama2-7b/64_clients full/
+round 2, client29, loss0.93195
+
+./outputs/llama2-7b/64_clients full/
+round 2, client30, loss0.93193
+
+./outputs/llama2-7b/64_clients full/
+round 2, client31, loss0.93168
+
+./outputs/llama2-7b/64_clients full/
+round 2, client32, loss0.93177
+
+./outputs/llama2-7b/64_clients full/
+round 2, client33, loss0.93166
+
+./outputs/llama2-7b/64_clients full/
+round 2, client34, loss0.93175
+
+./outputs/llama2-7b/64_clients full/
+round 2, client35, loss0.93184
+
+./outputs/llama2-7b/64_clients full/
+round 2, client36, loss0.93153
+
+./outputs/llama2-7b/64_clients full/
+round 2, client37, loss0.93136
+
+./outputs/llama2-7b/64_clients full/
+round 2, client38, loss0.93151
+
+./outputs/llama2-7b/64_clients full/
+round 2, client39, loss0.93128
+
+./outputs/llama2-7b/64_clients full/
+round 2, client40, loss0.93113
+
+./outputs/llama2-7b/64_clients full/
+round 2, client41, loss0.93098
+
+./outputs/llama2-7b/64_clients full/
+round 2, client42, loss0.93104
+
+./outputs/llama2-7b/64_clients full/
+round 2, client43, loss0.931
+
+./outputs/llama2-7b/64_clients full/
+round 2, client44, loss0.93093
+
+./outputs/llama2-7b/64_clients full/
+round 2, client45, loss0.93093
+
+./outputs/llama2-7b/64_clients full/
+round 2, client46, loss0.93079
+
+./outputs/llama2-7b/64_clients full/
+round 2, client47, loss0.93056
+
+./outputs/llama2-7b/64_clients full/
+round 2, client48, loss0.93063
+
+./outputs/llama2-7b/64_clients full/
+round 2, client49, loss0.93052
+
+./outputs/llama2-7b/64_clients full/
+round 2, client50, loss0.9306
+
+./outputs/llama2-7b/64_clients full/
+round 2, client51, loss0.93036
+
+./outputs/llama2-7b/64_clients full/
+round 2, client52, loss0.93043
+
+./outputs/llama2-7b/64_clients full/
+round 2, client53, loss0.93018
+
+./outputs/llama2-7b/64_clients full/
+round 2, client54, loss0.93028
+
+./outputs/llama2-7b/64_clients full/
+round 2, client55, loss0.93015
+
+./outputs/llama2-7b/64_clients full/
+round 2, client56, loss0.92979
+
+./outputs/llama2-7b/64_clients full/
+round 2, client57, loss0.93
+
+./outputs/llama2-7b/64_clients full/
+round 2, client58, loss0.92986
+
+./outputs/llama2-7b/64_clients full/
+round 2, client59, loss0.92986
+
+./outputs/llama2-7b/64_clients full/
+round 2, client60, loss0.92995
+
+./outputs/llama2-7b/64_clients full/
+round 2, client61, loss0.92973
+
+./outputs/llama2-7b/64_clients full/
+round 2, client62, loss0.92968
+
+./outputs/llama2-7b/64_clients full/
+round 2, client63, loss0.92977
+

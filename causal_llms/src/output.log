@@ -1,0 +1,312 @@
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 0
+client for current block: (7, 1, 17)
+client loss for current block: (1.0664130449295044, 1.0667246580123901, 1.0672868490219116)
+block 0 avg loss: 1.06681
+block 0 agg loss: 1.06675
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 1
+client for current block: (15, 14, 8)
+client loss for current block: (1.0096142292022705, 1.0065852403640747, 1.0077365636825562)
+block 1 avg loss: 1.00798
+block 1 agg loss: 1.0079
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 2
+client for current block: (6, 5, 27)
+client loss for current block: (0.984809935092926, 0.9851373434066772, 0.9841968417167664)
+block 2 avg loss: 0.98471
+block 2 agg loss: 0.98466
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 3
+client for current block: (2, 1, 5)
+client loss for current block: (0.9730254411697388, 0.9738138318061829, 0.9750961065292358)
+block 3 avg loss: 0.97398
+block 3 agg loss: 0.97384
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 4
+client for current block: (13, 14, 1)
+client loss for current block: (0.9667056798934937, 0.9662389755249023, 0.9659909605979919)
+block 4 avg loss: 0.96631
+block 4 agg loss: 0.96627
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 5
+client for current block: (12, 26, 14)
+client loss for current block: (0.9611579179763794, 0.9612054228782654, 0.9607253074645996)
+block 5 avg loss: 0.96103
+block 5 agg loss: 0.96057
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 6
+client for current block: (28, 17, 0)
+client loss for current block: (0.9562716484069824, 0.9568695425987244, 0.9564615488052368)
+block 6 avg loss: 0.95653
+block 6 agg loss: 0.95656
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 7
+client for current block: (10, 27, 21)
+client loss for current block: (0.9527766108512878, 0.9524860978126526, 0.9526573419570923)
+block 7 avg loss: 0.95264
+block 7 agg loss: 0.95244
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 8
+client for current block: (17, 9, 13)
+client loss for current block: (0.949699342250824, 0.9497445225715637, 0.949549674987793)
+block 8 avg loss: 0.94966
+block 8 agg loss: 0.94959
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 9
+client for current block: (21, 6, 5)
+client loss for current block: (0.9468376636505127, 0.9473778009414673, 0.9471904635429382)
+block 9 avg loss: 0.94714
+block 9 agg loss: 0.94706
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 10
+client for current block: (24, 6, 22)
+client loss for current block: (0.9449286460876465, 0.9456270337104797, 0.9449911117553711)
+block 10 avg loss: 0.94518
+block 10 agg loss: 0.94504
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 11
+client for current block: (22, 16, 2)
+client loss for current block: (0.9432723522186279, 0.9434579610824585, 0.9430572986602783)
+block 11 avg loss: 0.94326
+block 11 agg loss: 0.94319
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 12
+client for current block: (29, 7, 24)
+client loss for current block: (0.9415257573127747, 0.9417469501495361, 0.9413829445838928)
+block 12 avg loss: 0.94155
+block 12 agg loss: 0.94167
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 13
+client for current block: (5, 18, 23)
+client loss for current block: (0.9402352571487427, 0.9406763911247253, 0.9404920935630798)
+block 13 avg loss: 0.94047
+block 13 agg loss: 0.94046
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 14
+client for current block: (12, 4, 2)
+client loss for current block: (0.9391382932662964, 0.9391492605209351, 0.9391027688980103)
+block 14 avg loss: 0.93913
+block 14 agg loss: 0.93913
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 15
+client for current block: (14, 18, 5)
+client loss for current block: (0.9380621314048767, 0.9384032487869263, 0.9384694695472717)
+block 15 avg loss: 0.93831
+block 15 agg loss: 0.9384
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 16
+client for current block: (14, 6, 24)
+client loss for current block: (0.9377145767211914, 0.937759518623352, 0.9376164674758911)
+block 16 avg loss: 0.9377
+block 16 agg loss: 0.93763
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 17
+client for current block: (17, 29, 23)
+client loss for current block: (0.9370206594467163, 0.9369996786117554, 0.9372627139091492)
+block 17 avg loss: 0.93709
+block 17 agg loss: 0.93716
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 18
+client for current block: (10, 23, 22)
+client loss for current block: (0.9366618990898132, 0.9369367361068726, 0.9367303252220154)
+block 18 avg loss: 0.93678
+block 18 agg loss: 0.93678
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 19
+client for current block: (13, 17, 4)
+client loss for current block: (0.9364082217216492, 0.9365352392196655, 0.9364327788352966)
+block 19 avg loss: 0.93646
+block 19 agg loss: 0.93634
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 20
+client for current block: (10, 15, 29)
+client loss for current block: (0.9358935952186584, 0.9358980655670166, 0.9360198974609375)
+block 20 avg loss: 0.93594
+block 20 agg loss: 0.9361
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 21
+client for current block: (24, 17, 14)
+client loss for current block: (0.9357276558876038, 0.935838520526886, 0.9359562993049622)
+block 21 avg loss: 0.93584
+block 21 agg loss: 0.93588
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 22
+client for current block: (20, 3, 14)
+client loss for current block: (0.935750424861908, 0.935610294342041, 0.9356161952018738)
+block 22 avg loss: 0.93566
+block 22 agg loss: 0.93582
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 23
+client for current block: (2, 20, 25)
+client loss for current block: (0.9354699850082397, 0.9354774355888367, 0.9354744553565979)
+block 23 avg loss: 0.93547
+block 23 agg loss: 0.93545
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 24
+client for current block: (17, 4, 13)
+client loss for current block: (0.9352713823318481, 0.9352834224700928, 0.9352933168411255)
+block 24 avg loss: 0.93528
+block 24 agg loss: 0.93535
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 25
+client for current block: (20, 13, 31)
+client loss for current block: (0.9352277517318726, 0.9351214170455933, 0.9351007342338562)
+block 25 avg loss: 0.93515
+block 25 agg loss: 0.93518
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 26
+client for current block: (25, 29, 9)
+client loss for current block: (0.9349668025970459, 0.9349874258041382, 0.93507981300354)
+block 26 avg loss: 0.93501
+block 26 agg loss: 0.93487
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 27
+client for current block: (16, 8, 15)
+client loss for current block: (0.9347280263900757, 0.9347636103630066, 0.9347377419471741)
+block 27 avg loss: 0.93474
+block 27 agg loss: 0.9348
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 28
+client for current block: (16, 27, 25)
+client loss for current block: (0.934682309627533, 0.9345034956932068, 0.9346274137496948)
+block 28 avg loss: 0.9346
+block 28 agg loss: 0.93453
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 29
+client for current block: (23, 14, 8)
+client loss for current block: (0.9343923330307007, 0.9343495965003967, 0.9344001412391663)
+block 29 avg loss: 0.93438
+block 29 agg loss: 0.93442
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 0, block 30
+client for current block: (31, 5, 3)
+client loss for current block: (0.9342047572135925, 0.9339762330055237, 0.934147834777832)
+block 30 avg loss: 0.93411
+block 30 agg loss: 0.93406
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 0
+client for current block: (7, 1, 17)
+client loss for current block: (0.9328148365020752, 0.9330424666404724, 0.9325251579284668)
+block 0 avg loss: 0.93279
+block 0 agg loss: 0.93277
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 1
+client for current block: (15, 14, 8)
+client loss for current block: (0.9321237802505493, 0.9324062466621399, 0.9324706196784973)
+block 1 avg loss: 0.93233
+block 1 agg loss: 0.93203
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 2
+client for current block: (6, 5, 27)
+client loss for current block: (0.9321370124816895, 0.9315120577812195, 0.9315522909164429)
+block 2 avg loss: 0.93173
+block 2 agg loss: 0.93165
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 3
+client for current block: (2, 1, 5)
+client loss for current block: (0.9312001466751099, 0.931471586227417, 0.9311609864234924)
+block 3 avg loss: 0.93128
+block 3 agg loss: 0.93123
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 4
+client for current block: (13, 14, 1)
+client loss for current block: (0.9309389591217041, 0.9307503700256348, 0.9310030341148376)
+block 4 avg loss: 0.9309
+block 4 agg loss: 0.93091
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 5
+client for current block: (12, 26, 14)
+client loss for current block: (0.9304717779159546, 0.9304484724998474, 0.9305997490882874)
+block 5 avg loss: 0.93051
+block 5 agg loss: 0.93062
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 6
+client for current block: (28, 17, 0)
+client loss for current block: (0.930219829082489, 0.9302181005477905, 0.9300140142440796)
+block 6 avg loss: 0.93015
+block 6 agg loss: 0.93009
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 7
+client for current block: (10, 27, 21)
+client loss for current block: (0.9296843409538269, 0.9296165704727173, 0.9297332167625427)
+block 7 avg loss: 0.92968
+block 7 agg loss: 0.92977
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 8
+client for current block: (17, 9, 13)
+client loss for current block: (0.9295688271522522, 0.9296960830688477, 0.9294105172157288)
+block 8 avg loss: 0.92956
+block 8 agg loss: 0.92964
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 9
+client for current block: (21, 6, 5)
+client loss for current block: (0.9287970066070557, 0.9297481775283813, 0.9289546608924866)
+block 9 avg loss: 0.92917
+block 9 agg loss: 0.92919
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 10
+client for current block: (24, 6, 22)
+client loss for current block: (0.9285590648651123, 0.929273247718811, 0.9283478856086731)
+block 10 avg loss: 0.92873
+block 10 agg loss: 0.92874
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 11
+client for current block: (22, 16, 2)
+client loss for current block: (0.9280706644058228, 0.9283950328826904, 0.9281273484230042)
+block 11 avg loss: 0.9282
+block 11 agg loss: 0.92836
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 12
+client for current block: (29, 7, 24)
+client loss for current block: (0.9276251792907715, 0.9279108047485352, 0.927431583404541)
+block 12 avg loss: 0.92766
+block 12 agg loss: 0.9278
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 13
+client for current block: (5, 18, 23)
+client loss for current block: (0.9275158643722534, 0.9277291893959045, 0.9277839064598083)
+block 13 avg loss: 0.92768
+block 13 agg loss: 0.92755
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 14
+client for current block: (12, 4, 2)
+client loss for current block: (0.9271307587623596, 0.9272518157958984, 0.9270188808441162)
+block 14 avg loss: 0.92713
+block 14 agg loss: 0.92729
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 15
+client for current block: (14, 18, 5)
+client loss for current block: (0.9269564151763916, 0.9269955158233643, 0.9267580509185791)
+block 15 avg loss: 0.9269
+block 15 agg loss: 0.92699
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 16
+client for current block: (14, 6, 24)
+client loss for current block: (0.9268440008163452, 0.9267796277999878, 0.9265230298042297)
+block 16 avg loss: 0.92672
+block 16 agg loss: 0.92692
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 17
+client for current block: (17, 29, 23)
+client loss for current block: (0.9267905354499817, 0.9264905452728271, 0.9265539050102234)
+block 17 avg loss: 0.92661
+block 17 agg loss: 0.92666
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 18
+client for current block: (10, 23, 22)
+client loss for current block: (0.9262502193450928, 0.9265579581260681, 0.9263209104537964)
+block 18 avg loss: 0.92638
+block 18 agg loss: 0.9264
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 19
+client for current block: (13, 17, 4)
+client loss for current block: (0.926281750202179, 0.926321804523468, 0.9263643622398376)
+block 19 avg loss: 0.92632
+block 19 agg loss: 0.92615
+./outputs/llama2-7b/64_clients_agg_switch_3_clients_sampled_per_block/
+round 1, block 20
+client for current block: (10, 15, 29)
+client loss for current block: (0.9260534644126892, 0.9260931611061096, 0.9260963201522827)
+block 20 avg loss: 0.92608
+block 20 agg loss: 0.92624

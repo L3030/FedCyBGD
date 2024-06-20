@@ -1,0 +1,5 @@
+*.pyc
+*/wandb/
+llama/outputs/
+.vscode/*
+launch.json
