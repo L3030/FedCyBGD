@@ -108,6 +108,16 @@ UDA_VISIBLE_DEVICES=0 python roberta.py \
 --num_clients 24
 ```
 
+### Citation
+'''bash
+@article{wang2024save,
+  title={Save It All: Enabling Full Parameter Tuning for Federated Large Language Models via Cycle Black Gradient Descent},
+  author={Wang, Lin and Wang, Zhichao and Tang, Xiaoying},
+  journal={arXiv preprint arXiv:2406.11187},
+  year={2024}
+}
+'''
+
 
 # Acknowledgements
 
