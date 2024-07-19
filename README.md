@@ -1,6 +1,6 @@
 # FedCycleBGD
 
-The implementation for [Save It All: Enabling Full Parameter Tuning for Federated Large Language Models via Cycle Black Gradient Descent](https://arxiv.org/abs/2406.11187).
+The implementation for [Save It All: Enabling Full Parameter Tuning for Federated Large Language Models via Cycle Block Gradient Descent](https://arxiv.org/abs/2406.11187).
 ## Overview
 
 This repository introduces our latest work **FedCycleBGD** which aims to explore the use of full-parameter tuning Language Models (LLMs) in the federated learning setting, with the objective of reducing communication, computation, and memory costs through the implementation of a cycle block update mechanism.
